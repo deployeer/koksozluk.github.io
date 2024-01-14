@@ -1,0 +1,95 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    margin-right: 1em;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#nav-logo{
+    width: 10em;
+
+}
+.banner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 40em;
+    padding: 1em;
+    margin-top: -8em;
+}
+.communication {
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.communication a {
+    margin: 0 10px; /* İkonlar arasındaki boşluk */
+    text-decoration: none;
+}
+
+.communication svg {
+    width: 30px;
+    height: 30px;
+    fill: #333; /* İlk renk */
+    transition: transform 0.2s ease, color 0.3s ease; /* Hafif büyüme ve renk değişimi için geçiş efekti */
+}
+
+.communication a:hover svg {
+    transform: scale(1.1); /* Hover durumunda hafiften büyütme */
+    fill: #00CED1; /* Hover durumunda turkuaz renk */
+}
+
+#logo {
+    width: 100%;
+    max-width: 15em;
+    height: auto;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+
+/* Navbar'ı sayfa ortasına al */
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white !important;
+}
+
+.container-fluid {
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-nav .nav-link  {
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: normal;
+    transition: transform 0.2s ease, color 0.3s ease;
+
+}
+
+.navbar-nav .nav-link:hover {
+    color: #20B2AA !important; /* Hover durumunda renk değişimi */
+    font-weight: bold;
+    transform: scale(1.1);
+}
