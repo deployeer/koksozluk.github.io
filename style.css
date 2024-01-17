@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    margin: 0;
+    margin: 20px;
     padding: 0;
 }
 
@@ -28,7 +28,7 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 65em;
+    width: 55em;
     padding: 1em;
 }
 
@@ -37,8 +37,7 @@ header{
     text-align: center;
 }
 .kelimeler{
-    margin-top: -3em;
-    padding: 3em;
+    padding: 2em;
     font-weight: 500;
 }
 
@@ -174,3 +173,54 @@ footer p {
   margin-bottom: 10px;
 }
 
+
+.search-container {
+   margin-top: 2em;
+}
+
+#resultContainer {
+    height: 20em; /* Max yükseklik belirlenmeli */
+    overflow-y: auto; /* Scroll olabilmesi için overflow-y özelliği kullanılır */
+    border: 1px solid rgb(233, 233, 233);
+    border-radius: 10px;
+    width: 51em;
+    display: none;
+    text-align: start;
+    justify-content: start;
+    align-items: start;
+    padding: 1em;
+}
+
+#red-beyan{
+    background-color: #00CED1;
+    padding: 2em;
+
+}
+
+.search-container {
+    display: flex;
+    margin: 10px;
+  }
+  
+  #searchInput {
+    padding: 10px;
+    flex-grow: 1;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+  }
+  
+  .search-button {
+    padding: 10px;
+    background-color: #00CED1;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    transition: background-color 0.3s ease; 
+  }
+  
+  .search-button:hover {
+    background-color: #068688;
+  }
+  
