@@ -111,14 +111,11 @@ header{
     margin: 0 15px;
     text-decoration: none;
     font-weight: normal;
-    transition: transform 0.2s ease, color 0.3s ease;
 
 }
 
 .navbar-nav .nav-link:hover {
-    color: #20B2AA; /* Hover durumunda renk değişimi */
-    font-weight: bold;
-    transform: scale(1.1);
+    color: #00CED1; /* Hover durumunda renk değişimi */
 }
 
 footer {
@@ -145,7 +142,8 @@ footer p {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    padding: 10px;
+    padding: 0.3em;
+    margin-bottom: 0.4em;
     background-color: #00CED1;
     color: #fff;
     border: none;
