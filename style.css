@@ -140,3 +140,37 @@ footer {
 footer p {
     margin: 0;
 }
+
+#goTopButton {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    background-color: #00CED1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}
+
+#goTopButton:hover {
+    background-color: #068688;
+
+}
+
+#goTopButton.hidden {
+    opacity: 0;
+    transform: translateY(20px); 
+}
+
+
+.scrollable {
+  overflow-y: scroll;
+}
+
+.result-item {
+  margin-bottom: 10px;
+}
+
