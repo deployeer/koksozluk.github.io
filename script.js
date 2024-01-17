@@ -4786,7 +4786,7 @@ function search() {
     const resultContainer = document.getElementById('resultContainer');
 
     if (searchInput.length < 2) {
-        alert("En az 2 harf giriniz.");
+        alert("en az 2 harf giriniz.");
         return;
     }
 
@@ -4833,10 +4833,10 @@ function search() {
 
     if (displayedResults > 0) {
         resultContainer.style.display = 'block';
-        resultContainer.innerHTML = `<h4 style="text-align: center;">ARAMA SONUCU</h4>` + resultContainer.innerHTML;
+        resultContainer.innerHTML = `<h4 style="text-align: center;">arama sonucu</h4>` + resultContainer.innerHTML;
     } else {
         resultContainer.style.display = 'block';
-        resultContainer.innerHTML = '<p>Aradığınız kelime bulunamadı.</p>';
+        resultContainer.innerHTML = '<p>aradığınız kelime bulunamadı.</p>';
     }
 }
 
