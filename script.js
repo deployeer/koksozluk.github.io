@@ -3664,6 +3664,8 @@ TANJU: (Tanyu) Sonsuz genişlik, ululuk,olağanüstülük, mucize gibi Hun impar
 TANLA: 1- Şaşılası, ürkütücü, olağanüstü, mucize 2- Suçlayan, yargılayıcı 3- Doğuş, tan vakti
 TANLAĞI: Mucize
 TANMAN: Tan vakti doğan
+TANRI: Tanrı ya da ilah, özellikle tek tanrılı inançlar tarafından evrenin tek yaradanı ve yöneteni olduğuna inanılan doğaüstü varlık. Çok tanrılı inançlarda genelde ilahların cinsiyeti bulunur ve eril olanlarına tanrı, dişi olanlarına tanrıça denir.
+TANRIÇA: Tanrıça, dişi ya da dişil ilah anlamlarına gelebilir. Soyut bir ilahi varlıktır.
 TANRIDAĞ: birl. Tanrı/Dağ “ Tanrı Dağı” Çok eski dönemlerden beri, kutsanarak, Tanrı tarafından yalnızca Türklere tahsis edildiğine inanılan ve halen kutlu kabul edilen sıradağların genel adı
 TANRIKUT: birl. Tanrı/Kut Tanrısal, Tanrıdan gelen, Tanrının Kutunu üzerinde bulunduran, haşmetli, Hun imparatoru Mete Han’ın unvanı
 TANSIĞ: (Tansık,Tansu) hayret verici, şaşırtıcı, olağanüstü
@@ -3792,6 +3794,7 @@ TEMÜRKAZUK: birl. Temir/Kazık Kutup yıldızı
 TENBE: At koşumu, koşum takımı
 TENEKUR: Boraks madeni
 TENGİZ: Deniz
+TENGRİ: bkz. TANRI. Orta Asya'nın uçsuz bucaksız bozkırlarında yaşayan Eski Türklerin inancı, Gök Tanrı = Kök Tengri inancıdır. Eski Türkçede Tanrı sözcüğü Tengri biçiminde söylenirdi (ayrıca Tengri sözcüğü, gök anlamına da gelirdi). Eskiden Kök olarak söylenen gök sözcüğünün ise Eski Türkçede üç anlamı vardı: Biri bugünkü kullandığımız anlamı ile gök, gökyüzü; biri, yine bugünkü kullandığımız anlamı ile mavi renk; biri de, bugün kullanmadığımız anlamı ile ulu, yüce, kutsal. İşte Kök Tengri/Gök Tanrı deyiminde geçen kök/gök sözünün taşıdığı anlam ulu, yüce, kutsal'dır. Buna bağlı olarak da, Kök Tengri/Gök Tanrı deyimi Ulu Tanrı, Yüce Tanrı anlamlarına gelir.
 TENİK: Azim, kararlılık
 TENŞİ: Eşit, adil, adaletli
 TEOMAN: Sis, duman, tuman
