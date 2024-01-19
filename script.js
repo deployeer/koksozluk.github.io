@@ -4781,7 +4781,7 @@ const data = rawData.split('\n').reduce((acc, line) => {
 }, {});
 
 function normalizeTurkish(input) {
-    return input.replace(/ı/g, 'I').replace(/i/g, 'İ').toUpperCase();
+    return input.trim().replace(/ı/g, 'I').replace(/i/g, 'İ').toUpperCase();
 }
 
 function search() {
