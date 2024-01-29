@@ -23,11 +23,11 @@ ABAKA: Yakın akraba, amca çocuğu
 ABAKAN: Alicenap
 ABAKAY: 1- Yakın akraba, yeğen, amca çocuğu 2- Sibirya’da saygın ve sözü geçen hanımlara verilen bir unvan
 ABALA: Abla
-ABAR: (Avar): 1- Gösteriş, heybetlilik 2- Baş eğmez, dirençli
+ABAR: (Avar) 1- Gösteriş, heybetlilik 2- Baş eğmez, dirençli
 ABAŞ: Hanım yürüyüşü (Küçük narin adım)
 ABAY: 1- Aydınlık, aydınlık verici 2- Hayret uyandıran, hayret verici
 ABAKIYMIŞ: Gönül kırıcı, can yakıcı
-ABÇAR-(Avşar): 1- İşin ehli kişi, iş bitirici 2- Uyumlu, itaatkar
+ABÇAR: (Avşar) 1- İşin ehli kişi, iş bitirici 2- Uyumlu, itaatkar
 ABI: 1- Can, ruh 2- Soyluluk
 ABIÇ: Gönüllü
 ABIDAN: İçli, gönül insanı
@@ -35,15 +35,15 @@ ABIK: İçli, gönüllü
 ABIKAN: Mec.Soylu
 ABIL: Gönüllü, İstekli
 ABINAK: Sakinleşmiş gönül rahatlığı içinde olan
-ABINÇ(Avunç): Avunç, teselli
-ABIŞ(Apış): Bacağın diz kapağından yukarısı
+ABINÇ:(Avunç) Avunç, teselli
+ABIŞ:(Apış) Bacağın diz kapağından yukarısı
 ABIŞKA : İçten, içtenlikle çalışan
 ABIZ: Ruhsal, ruhlarla ilgili
 ABİKE: Alicenap, yüksek gönüllü
 ABİN: Mutlu, memnun, hoşnut
 ACAR: 1-Gayretli,Hareketli 2- Gözü pek, yırtıcı
 ACLAN: Açık,Açılan
-ACU-(Acı,Açığ): 1- Açık 2-Keskin, sert 3- Açı,aralık
+ACU: (Acı,Açığ) 1- Açık 2-Keskin, sert 3- Açı,aralık
 ACUN: Dünya, yeryüzü
 ACUNAL: birl. Acun/Al (Almak’tan)
 ACUNAY: birl. Acun/Ay/Mec.”Dünya güzeli”
@@ -79,10 +79,10 @@ ADIYEKE: birl. Adı/Yeke(yeğ) Mec. Saygıyla anılan kişi, adı yeğlenen kiş
 ADKIR: Aygır,erkek at
 ADMIŞ: Ün almış, tanınmış ADSAY: birl. Ad/Say Mec. Adına saygı duyulan kişi
 ADSIZ: 1- Fakir,kimsesiz
-AFŞAR (Abçar)
+AFŞAR: (Abçar)
 AFŞIN: Apçın,(Opçın) Zırh,demir örgülü savaş giysisi
 AFTABA: Su ibriği
-AGA (Ağa,Aka): 1-Saygıdeğer, ulu kişi 2- Cömert,koruyucu 3-Büyük erkek kardeş,ağabey
+AGA: (Ağa,Aka) 1-Saygıdeğer, ulu kişi 2- Cömert,koruyucu 3-Büyük erkek kardeş,ağabey
 AGOLA: Yönetici,amir
 AGUN: Tatmin,avuntu
 AGUNMUŞ: Avunmuş,sakin
@@ -92,7 +92,7 @@ AĞALBAY: Muhterem,saygıdeğer
 AĞAN: 1-Yüksek,yukarıda,yukarılara çıkan 2- Geceleri gökten hızla geçen, ışıklı nokta
 AĞAR: 1- Ağı ağırbaşlı, oturaklı 2- Gönül ferahlığı 3- Göğe yükseliş
 AĞARTMIŞ: 1- Namuslu,dürüst 2- Alçak gönüllü, mütevazı
-AĞAT (Akat): Namuslu, gönüllü, iffetli
+AĞAT: (Akat) Namuslu, gönüllü, iffetli
 AĞAYA: Makul,geçerli,uygun
 AĞDUK: Kutsal,muhterem
 AĞICI: Ağcı, Akçı, Akıcı, Hazinedar, Hazine sorumlusu
@@ -110,8 +110,7 @@ AĞRITMIŞ: Mec. Acı kuvvete sahip kişi
 AĞUL: 1- Ay’ın halesi 2- Oba, köy
 AĞUTUR: Yükselten,yukarı çıkaran
 AĞZUKARA: birl. Ağzı/Kara. Mec. Sert konuşan, acımasız ve hükmedici konuşan kişi
-AK: 1- Beyaz 2- Doğuş, doğum 3- Yükseliş 4-Parlaklık 5-Devinim,hareketlilik 6-Mec.Namusluluk,iffet ve
-güvenirliğin sembolü
+AK: 1- Beyaz 2- Doğuş, doğum 3- Yükseliş 4-Parlaklık 5-Devinim,hareketlilik 6-Mec.Namusluluk,iffet ve güvenirliğin sembolü
 AKA: Büyük,ulu kişi,saygıdeğer kişi
 AKABA: Yokuş,meyil
 AKAÇ: Akıcı
@@ -139,8 +138,7 @@ AKI: Eli açık,cömert,zengin gönüllü
 AKIM: 1-Yönelim,yükseliş 2- Akmaktan, akıcı,yayılıcı
 AKIN: 1-Saldırı,hücum 2-Kazak ve Kırgızlarda, ozan ve müzisyenlere verilen ad
 AKINAY: birl. Akın/Ay Türkistan’da hanım ozanlara verilen ad
-AKINCI: 1- Akın eden,saldıran 2- Osmanlılar dönemindeki, öncü birliklere ve bu birliklere dahil olan
-kişilere verilen unvan
+AKINCI: 1- Akın eden,saldıran 2- Osmanlılar dönemindeki, öncü birliklere ve bu birliklere dahil olan kişilere verilen unvan
 AKIŞ: 1-Yükseliş 2-Akmaktan akış 3-Servet,hazine
 AKKARA: birl. Ak/Kara mec.Zıtların bütünlüğü
 AKMAN: birl. 1-Temiz,iffetli 2-Apak,bembeyaz AKOBA: birl. Ak/Oba mec.soylu
@@ -156,7 +154,7 @@ AKYÖN: birl. Ak/Yön mec.Dürüst,namuslu
 AKYÜZ: birl. Ak/yüz mec.Dürüst
 AL: 1-Bayrak kumaşı 2-Kızarmış,kızarık 3-El,kolun bilekten aşağı kısmı 4- Ala,alaca 5-Almaktan al
 ALA: Karışık renkli,benekli
-ALABAN (Alban)Timsah
+ALABAN: (Alban)Timsah
 ALACA: Karışık renkli
 ALAÇUK: Kulübe,baraka,Altay Türklerinde,oda,(Çadırın iç bölmesi)
 ALAGAN: (Algan)Fatih
@@ -165,11 +163,9 @@ ALAGÜN: birl. Ala/Gün Gün ortası
 ALAK: Yok edici,öldürücü,alıcı,avlayıcı
 ALAN: 1-Işık,nur 2-Orman içindeki açık ve düzlük bölge 3- algan
 ALANÇA: Bahçelerdeki ağaç aralarında bulunan çimenlik bölge
-ALANGUVA: birl. Ala/Geyik
-Cengiz Kaan’ın onuncu göbekten büyük anası 2- Ergenekon destanında adı geçen Uldız Han’ın kızı
-3-Türk mitolojisinde yer alan ünlü kadın ki, efsaneye göre, bir nevi Türklerin ’’Meryem Ana” sı gibidir.
+ALANGUVA: birl. Ala/Geyik Cengiz Kağan’ın onuncu göbekten büyük anası 2- Ergenekon destanında adı geçen Uldız Han’ın kızı 3-Türk mitolojisinde yer alan ünlü kadın ki, efsaneye göre, bir nevi Türklerin Meryem Anası gibidir.
 ALAR: Yalancı karanlık(Gündüz vaktinde)
-ALAS (Alaz) Şamanist gelenekte “Ateş Tanrısı’’
+ALAS (Alaz): Şamanist gelenekte “Ateş Tanrısı’’
 ALASAYVAN: Şafak vakti,Güneşin doğuşu
 ALASI: Erek,amaç,sahip olunması istenen nesne
 ALATAŞ: birl. Ala/Taş Köz,ateş parçası
@@ -179,29 +175,28 @@ ALBAGA: Hasılat,savaş yada av ganimeti
 ALBAN: Haraç,ganimet
 ALBATU: Bürokrat, hizmetle yükümlü kişi
 ALBENİ: Çekim,cazibe,sempati
-ALCU (Alçu)Alıcı,avcı
+ALCU: (Alçu)Alıcı,avcı
 ALÇİÇEK: birl. Al/Çiçek (Gül’ün Türkçe karşılığı)
 ALÇİN: Kızıl renkli bir çalı kuşu
-ALÇU (Alcu)1-Algan,Fatih,2-Alcı,Avcı
+ALÇU: (Alcu)1-Algan,Fatih,2-Alcı,Avcı
 ALDI: 1-Öncü,öndeki,selef 2-Algan,Fatih
 ALDUR: Ok atışı,oklayış
-ALEV (Yalav…Yal kökünden)Ateşten çıkan ışık
+ALEV: (Yalav…Yal kökünden)Ateşten çıkan ışık
 ALGAN: Fatih,Fetheden
 ALGAZIN: Yabani vahşi hayvan
 ALGI: 1-Fetih,Almaktan… alım 2- Fehim,algılama
 ALGIN: 1- Serap 2-Yüksek yer 3- Bitiricilik,bitiriş
-ALGIŞ (Alkış): Dua,yakarış,niyaz
+ALGIŞ: (Alkış) Dua,yakarış,niyaz
 ALGU: 1-Tüm,hepsi 2-Toplum,topluluk 3-Silah 4-Alıcı,avcı
 ALGUR: Sakin,kendi halinde,kendinden emin
-ALGÜN: birl. Al/Gün”…Kazak ve Kırgızlarda,doğum sırasında yaşanan dikkat çekici,unutulmaz günleri
-mecz eder.
+ALGÜN: birl. Al/Gün”…Kazak ve Kırgızlarda,doğum sırasında yaşanan dikkat çekici,unutulmaz günleri mecz eder.
 ALICI: Alcu,Avcı
 ALIK: Alıngan,Kırgın
 ALIM: 1-Çekim,Cazibe 2-Vergi,Haraç
 ALIMGA: Yazıcı,(Han ve Kaanların buyruk ve fermanlarını yazan görevli kişi)
 ALIMLI: Çekici,Cazibeli
 ALINAK: birl. Alın/Ak mec.dürüst,namuslu
-ALINCAHAN (Alınçak Han) Oğuzname’ye göre,Türk’ün oğullarından
+ALINCAHAN: (Alınçak Han) Oğuzname’ye göre, Türk’ün oğullarından
 ALINÇAK: 1-Çekici,cazip 2- Alıngan,nazik
 ALINGAN: Alınan,incinen,gücenen
 ALK: Bitirmek,yok etmek,sona erdirmek,bitiricilik
@@ -224,13 +219,13 @@ ALPAGU: Düşmanına tek başına saldıran kişi
 ALPAGUT: 1-Alplik gösteren kişi 2-Kurt soyundan 3- Seçkin ve saygın kişi
 ALPEREN: birl.Alp/Eren (Gazi, Derviş) Toplumun sayıp sevdiği, örnek aldığı savaşçı kişilerin genel adı
 ALPMAN: Alp gibi Alpçe yaşayan
-ALTAÇU (Altaç): Aldatıcı taktik sahibi
+ALTAÇU: (Altaç) Aldatıcı taktik sahibi
 ALTAMIŞ: Aldatıcı,hileci
 ALTAN: 1-Altın 2-Güneşin doğuş anı,Şafak
 ALTANURUG: (Altın Uruk) Cengiz Kagan ve oğullarının soyuna verilen unvanlardan
 ALTAY: 1-Al/Ala/Tay 2-Altın 3-Ormanlarla kaplı yüksek dağ
 ALTINDAĞ: birl. Altın/Dağ/Altay dağlarının,diğer adı.
-ALTU (Aldu): 1-İlk,Birinci 2-Algan,Fatih
+ALTU: (Aldu) 1-İlk,Birinci 2-Algan,Fatih
 ALTUN: Altın
 ALTUNSABAK: birl. Altun/Sabak(sopa,değnek)
 ALUÇ: 1-Alıcı(Alçu) 2-Kayın cinsi bir ağaç
@@ -245,7 +240,7 @@ ANAGAY: Anaya çekmiş, anaya benzer
 ANASIOĞLU: birl. Anası(nın)Oğlu (Babası erken ölmüş ve özellikle anası tarafından bin bir güçlüklerle yetiştirilip büyütülmüş, yetim çocuklar için kullanılmış olduğu anlaşılan Türk adlarından)
 ANAT: 1-Anı,Anılan 2- Yakın,hısım
 ANAZ: Yeğrek, evla, eftal
-AND (ANT) 1-Yemin,söz 2- Yakın akraba
+AND: (ANT) 1-Yemin,söz 2- Yakın akraba
 ANDA: Birlikte ant içmiş(kan kardeşi) (Anda’lık Türklerin en eski geleneklerinden biridir. Andalar birbirlerini kardeşlerinden daha ileride korur, sayar ve kayırmaya çalışırlar.)
 ANDAÇ: Hatıra, anı olsun diye verilip,alınan hediye
 ANDARIMAN: Anılara değer veren ve saygı gösteren kişi
@@ -292,7 +287,8 @@ ARGÜDEN: birl. Ar/Güden, Arlı, edepli
 ARI: (Arık) 1- Saf, arı, arınmış 2- Irmak, dere
 ARICA: Soylu, temiz, iyi huylu
 ARIÇ: Barış, sulh
-ARIĞ (Arı, Arık)
+ARIĞ: (Arı, Arık) Saf, iffetli, temiz. Pak. Halis.
+ARIĞHAN: Temiz, güzel, soylu hükümdar.
 ARIK: 1- Arı, arınmış, temiz 2- Narin, ince yapılı
 ARIL: Arınmış, temiz, pak
 ARIN: Saf, arınmış
@@ -307,10 +303,9 @@ ARKUZ: (Arguz) Edepli, iyi huylu
 ARLAĞ: Arlı, edepli
 ARLAT: Biricik oğul, anaların en çok üstüne düştükleri oğul
 ARMAGUN: Armağan, hediye
-ARMAĞAN (Yarmagun-Yarmagan)- Hediye
+ARMAĞAN: (Yarmagun-Yarmagan) Hediye
 ARMAN: 1- Onurlu, arlı, edepli 2- Dilek, istek 3- Hayal, fantezi
 ARPA: 1- Büyü, tılsım, Şamanist gelenekte, Kamların okuduğu dua 2- Tahıl
-ARPAD (Arpa)
 ARSİN: (Ersin) Kurtuluş, istiklal
 ARSALAN: Arslan
 ARSLAN: Yırtıcı hayvan Mec. Cesaret, atılganlık ve gözü pekliği sembolize eder.
@@ -320,7 +315,7 @@ ARSLANÇA: Arslan gibi, arslan özelliklerine sahip
 ARSU: birl. Ar/Su mec. Namuslu, dürüst
 ARSUN: 1- Efendi, ağırbaşlı 2- Rahata ermiş, huzurlu
 ARTAGAN: Bereket, artuk, fazlalık, bolluk
-ARTAM (Erdem)
+ARTAM: (Erdem) İyilikçilik, doğruluk ve erdem sahibi olan kimse.
 ARTIM: Bereket, bolluk
 ARTUÇ: Mızrak, mızrak ucu
 ARTUK: Fazlalık, üstünlük, bereket mec. Varlık, zenginlik
@@ -334,8 +329,8 @@ ARZIK: Fanatik, bağnaz, sofu
 ASAN: 1- Sağlıklı, zinde 2- Asma eyleminde olan
 ASENA: Efsanevi dişi kurtun adı. Yakın, Yakınlık duyulan
 ASIGLI: Faydalı,Gerekli
-ASIĞ (Ası,Asık) 1- Fayda, Çıkar 2-Kar,temettü
-ASPAR (Asbar) Faydalı, işe yarayan ASRAK: Himaye, Koruma
+ASIĞ: (Ası,Asık) 1- Fayda, Çıkar 2-Kar,temettü
+ASPAR: (Asbar) Faydalı, işe yarayan ASRAK: Himaye, Koruma
 AŞAN: Aşmak’dan …mec. Azimli, engel tanımaz
 AŞIT: 1- Aşılacak, aşılması gerekli olan 2- İşitmekten…İşit, kulak ver
 AŞKAR: 1- Savaş atı 2- Kuyruk ve yelesi kara, vücudu kula renginde olan at
@@ -365,13 +360,14 @@ ATIL: Ünlü, meşhur
 ATILGAN: Atak, gözüpek,cesur
 ATILMIŞ: Atılgan, gözüpek
 ATIŞ: Ünlü, meşhur
-ATİLAY: Türk tarihinin en önemli kişilerinden,Batı Hun imparatoru, Bu kişinin adı üzerinde tarihçi ve dilciler pek de anlaşamamışlardır. Benim görüşüm de göç sırasında İtil ırmağı kıyısında doğmuş olmasından dolayı “İtil/Ay”dır. Ancak bununla birlikte bu kişi için bazı adlar söylenmekte (Atila,Atilla,Atılay,Atilay,Atalay,Atlıhan vb.) Anlamlar:1- Atacık,babacık 2- İtil ırmağı kenarında doğduğundan ve Türklerdeki eski bir gelenekten dolayı “İtil” çocuğu anlamında verilen İtilay’ın zamanla Atilay’a dönüşümü 3- Atlı/Ay 4- Atlı/Han 5- Macar dilinde çelik anlamına gelen “Atzel” den ATLIĞ: Ünlü,zengin
+ATTİLA: (ATİLLA, ATİLA, ATİLAY) Türk tarihinin en önemli kişilerinden,Batı Hun imparatoru, Bu kişinin adı üzerinde tarihçi ve dilciler pek de anlaşamamışlardır.İtil ırmağı kıyısında doğmuş olmasından dolayı “İtil/Ay”da denmektedir. Ancak bununla birlikte bu kişi için bazı adlar söylenmekte (Atila,Atilla,Atılay,Atilay,Atalay,Atlıhan vb.) Anlamlar:1- Atacık,babacık 2- İtil ırmağı kenarında doğduğundan ve Türklerdeki eski bir gelenekten dolayı “İtil” çocuğu anlamında verilen İtilay’ın zamanla Atilay’a dönüşümü 3- Atlı/Ay 4- Atlı/Han 5- Macar dilinde çelik anlamına gelen “Atzel” den 
+ATLIĞ: Ünlü,zengin
 ATMACA: Yırtıcı bir avcı kuş
 ATMAN: Ünlü, saygın
 ATMIŞ: Atma eyleminde bulunmuş (ok,kargı vb.)
 ATSAK: Ünlü, adı duyulan
 ATUK: Bolluk, bereket
-AVAR (Abar) 1- Heybet, büyüklük(Abartı) 2- Dirençlilik, dayanıklılık
+AVAR: (Abar) 1- Heybet, büyüklük(Abartı) 2- Dirençlilik, dayanıklılık
 AVAZ: Nara, yüksek perdeli ses, çığlık
 AVCI: Av yapan, avlayan
 AVCIL: Avlayıcı, av işinin uzmanı
@@ -385,9 +381,9 @@ AVUNÇ: Teselli, avuntu
 AVUÇU: Avunç
 AVUNDUK: Avuntu, teselli
 AVUTMUŞ: Teselli eden
-AY: Dünyamızın uydusu olan gezegen. Ancak Türk kültüründe bu ad güzellik, temizlik, ahlaklılık vb. değerleri de içeren birçok öğeyi içinde barındıran bir sembol ve mecaz olarak kullanılmıştır. Çok önceleri erkeklerde kullanılmasına karşın, zamanla kız çocuklarına ad olarak verilmiş, gerek başta, gerekse de son da, birleşik ad olarak değerlendirilmiştir. Bununla birlikte bazen geçmiş örneklerde de görüleceği gibi hem erkeklerde hem de kızlarda kullanılmıştır. Ancak yine de ağırlık kız adlarındadır.Ve kız adlarında önemli bir konumdadır. AYAĞ (Ayak) 1-Uğur, şeref, şan 2- Devinim, hareket (ayaklanma sözü) buradan gelir. AYANA: birl. Ay/Ana Altay Türklerinin eski tanrıçalarından
-AYAS: Ay ışığı, mehtap, gece aydınlığı
-Altay, Tuva, Çuvaş Türklerinde Tanrı sıfatı olarak kullanılan bir ad
+AY: Dünyamızın uydusu olan gezegen. Ancak Türk kültüründe bu ad güzellik, temizlik, ahlaklılık vb. değerleri de içeren birçok öğeyi içinde barındıran bir sembol ve mecaz olarak kullanılmıştır. Çok önceleri erkeklerde kullanılmasına karşın, zamanla kız çocuklarına ad olarak verilmiş, gerek başta, gerekse de son da, birleşik ad olarak değerlendirilmiştir. Bununla birlikte bazen geçmiş örneklerde de görüleceği gibi hem erkeklerde hem de kızlarda kullanılmıştır. Ancak yine de ağırlık kız adlarındadır.Ve kız adlarında önemli bir konumdadır. AYAĞ (Ayak) 1-Uğur, şeref, şan 2- Devinim, hareket (ayaklanma sözü) buradan gelir. 
+AYANA: birl. Ay/Ana Altay Türklerinin eski tanrıçalarından
+AYAS: Ay ışığı, mehtap, gece aydınlığı Altay, Tuva, Çuvaş Türklerinde Tanrı sıfatı olarak kullanılan bir ad
 AYATA: birl. Ay/Ata Şamanist gelenekte, göğün altıncı katına bakan Tanrı
 AYAZ: 1- Ay ışığı 2- saf, berrak hava 3- Kuru soğuk
 AYBAKIM: birl. Ay/Bakım, bakmaktan, bakış
@@ -429,9 +425,9 @@ AYMAZ: Vurdumduymaz, başına buyruk
 AYRAL: Kuraldışı, istisna
 AYRI: Başka, değişik, farklı
 AYRIÇ: Bölüşüm, taksimat
-AYRIKÇA (Ayıkşa): Derviş, mecnun
+AYRIKÇA: (Ayıkşa) Derviş, mecnun
 AYRUK: 1- Farklı, değişik 2- Varlıklı, zengin
-AYSELİG (Aysiliğ) birl. Ay/Silig, dürüst, namuslu
+AYSELİG: (Aysiliğ) birl. Ay/Silig, dürüst, namuslu
 AYTAK: Konuşmacı, hatip
 AYTAR: Haberci, muhbir
 AYTEK: Konuşmacı, hatip
@@ -445,7 +441,7 @@ AYÜN: birl. Ay/Ün Karahanlılar ve Uygurlar döneminde, han ve kağanların an
 AYZIT: Şamanist gelenekte “ Ay Tanrıçası”
 AZBOY: Heyecan
 AZGIN: Zapt edilmesi zor, sınırı aşmış, tahrik olmuş
-AZLAĞ. Nadir, az rastlanır.
+AZLAĞ: Nadir, az rastlanır.
 AZRAK: Nadir, az rastlanır.
 AZUK: (Azuka, Azık): Geçimlik, yiyecek
 BABAT:Cins, Tür
@@ -478,20 +474,20 @@ BAĞŞI: (Baksı) Kam, doktor
 BAHADIR: Bagatur, Batur, kahraman
 BAHŞİ: Baksı, doktor, bilgin, büyücü, hoca
 BAKAÇ: Bakıcı, bakan, nazır
-BAKAN (Bağan): 1- Anıt, abide 2- Bağlayıcı, birleştirici 3- Haşarı, afacan
+BAKAN: (Bağan) 1- Anıt, abide 2- Bağlayıcı, birleştirici 3- Haşarı, afacan
 BAKAY: Haşarı, ele avuca sığmayan
 BAKIM: Bakma eylemi, nazar, bakış
 BAKIR: Bakır madeni
 BAKIRSOKUM:birl. Bakır/Sokum (Kuzey Türklerinde, Merih yıldızı anlamına kullanılmaktadır.)
 BAKIŞ:1- Bakış, nazar 2- İkram 3- af
-BAKSI (Bakşı): Bahşı,doktor, bilgin, büyücü
+BAKSI: (Bakşı) Bahşı,doktor, bilgin, büyücü
 BAKTI: Bakan, nazır
 BAKUY: Ulu, saygıdeğer kişi, tecrübeli, bilge kişi
 BAL: 1- Yapışkan sıvı 2- Arı balı 3- Çamur, balçık
 BALA: Yavru, çocuk
-BALABAN (Balıban): 1-Bala bandırılmış 2- İri başlı bir doğan türü Ayrıca mecaz olarak “ mahzun ve baygın bakış” anlamını içerir.
+BALABAN: (Balıban) 1-Bala bandırılmış 2- İri başlı bir doğan türü Ayrıca mecaz olarak “ mahzun ve baygın bakış” anlamını içerir.
 BALACA: Yavrucak, ufaklık
-BALAK (Balak): manda yavrusu
+BALAK: (Balak) manda yavrusu
 BALAMAN: Cüsseli, iri kıyım
 BALAMİR: (Balabir) Biricik yavru
 BALANDI: İri yarı, gösterişli
@@ -517,7 +513,7 @@ BARAK: Türk mitolojisinde adı geçen çok tüylü, iri başlı köpek
 BARBOL: Varol
 BARÇA: 1- Parça 2- Tüm, tamam, eksiksiz
 BARÇIN: İpekli kumaş, kadife
-BARÇUK (Barçık) Tahta ve keçeden yapılan küçük heykel
+BARÇUK: (Barçık) Tahta ve keçeden yapılan küçük heykel
 BARÇUK ART TİGİN: birl. Barçuk/Art/Tigin (Art,ardçı,halef)
 BARDAM: Varlık, ganimet, bolluk
 BARGAN: Varan
@@ -551,7 +547,7 @@ BARTIK: Heykel, büst
 BARTU:1- Varlık, servet 2- Menzil, varılacak yer
 BARUG: Mesned, dayanak
 BASAGAR: Ağırbaşlı, mütevazi
-BASAK(Basa)1- Cesur, gözükara 2- Baskın 3- Farklılık, ayırım
+BASAK:(Basa) 1- Cesur, gözükara 2- Baskın 3- Farklılık, ayırım
 BASAN: 1- Baskın yapan 2- Ölünün ardından verilen yemek 3- Yayan, yayıcı
 BASAR: Baskın, baskıncı
 BASAT:1- Mühür, 2- Yardım, muavenet 3- Busat, pusat,silah 4- başat
@@ -560,8 +556,7 @@ BASIK: 1- Gece baskını 2- Basınç, tazyik, baskı
 BASILGAN: Baskıncı
 BASIM: Enerji, güç
 BASIR: Basar
-BASKAK: Basak, cesur, farklı, Çengiz Kaan döneminde askeri valiler için
-kullanılan ünvanlardan
+BASKAK: Basak, cesur, farklı, Çengiz Kaan döneminde askeri valiler için kullanılan ünvanlardan
 BASKIN:1- Galp, muzaffer 2- Ani yapılan saldırı 3- Basık, yaygın genişlemiş
 BASMIL:1- Baskıncı 2- yardımcı, muavin
 BASRUK: Baskı, tazyik
@@ -570,10 +565,9 @@ BASTI: Bastıran, baskın yapan
 BASTIK: Basdı, Baskıncı
 BASU (Basut) Tokmak
 BASUÇ: Baskı, tazyik
-BASUT: 1-Yardım, yardımcı 2- Demir tokmak 3- Baskın yapan BAŞ: Oluş, doğuş, ortaya çıkış, uç nokta, doruk, birinci sıra gibi anlamların
-hepsini içeren bir söz
+BASUT: 1-Yardım, yardımcı 2- Demir tokmak 3- Baskın yapan BAŞ: Oluş, doğuş, ortaya çıkış, uç nokta, doruk, birinci sıra gibi anlamların hepsini içeren bir söz
 BAŞACI: Reis, lider, öncü
-BAŞAD(Başat)
+BAŞAD:(Başat)
 BAŞAGUT:Önde gelen, önde bulunan, sevilen
 BAŞAK:1- Buğday başı 2- Ok ucu…okun ucuna takılan sivri demir 3- Sümbül çiçeği
 BAŞALMIŞ:1- Öncü,önder 2- Düşmanını yenip, yoketmiş
@@ -626,7 +620,7 @@ BAYAN: (Muyan, buyan) 1- Kalıcılık,sonsuzluk 2- Baht, mutluluk 3- Zenginlik, 
 BAYAR: Ulu, yüce, kudretli, celil…Tanrı sıfatlarından Bulgar hanlığı dönemi,soyluluk ve üstün vasıflı yöneticiler için verilen bir unvan
 BAYAT: Tanrı sıfatlarından ,..1- Devletli, kısmetli 2- Kadim, ezeli
 BAYATLI: Devletli, bahtı açık, muktedir BAYATLUĞ: (Bayatlı)
-BAYAVUT (Bayagut) Varlıklı, muktedir
+BAYAVUT: (Bayagut) Varlıklı, muktedir
 BAYÇA: Varlıklı, muktedir
 BAYÇU (Baycu): Varlıklı, devletli
 BAYDAK: 1- Bağımsız, hür 2- Bekar
@@ -750,7 +744,7 @@ BEYLEM: Buket, demet, çiçek demeti
 BEYLEN: Beyli, beye bağlı
 BEYNEN: Beğenen
 BEYREK: 1- Tim, müfreze 2- Merkez ordu, ordugah
-BEYRU (Bayrı) 1- Ezeli, başlangıçsız 2- Emektar, tecrübeli
+BEYRU: (Bayrı) 1- Ezeli, başlangıçsız 2- Emektar, tecrübeli
 BEZEK: Süs, takı, piraye
 BEZEN: Süs, makyaj
 BEZENMİŞ: Süslü
@@ -774,7 +768,7 @@ BİLDİK: Bilinen, tanınan, ünlü
 BİLECEN: Bilgiç,çok bilmiş
 BİLEDA: Balta
 BİLGE: Bilgili, filozof, alim, bilgin, ulu kişi
-BİLGEKAĞAN: Bilge/Kağan (Aslı, Türk Bilge Kağan’dır) Türk tarihinin, bir çok nedenlerle en önde gelen kişilerinden. Türk Milliyetçiliğini devlet siyasetine sokan, ona sosyal, ve siyasal bir kimlik vererek, devlet-millet bütünleşmesini sağlayan, milliyetçiliğe “zaman boyutu”nu kazandırıp, onu çağlar ötesine götürebilmeyi amaçlayan ve ilk defa “ Birleşik Türk Devletleri” fikrini ortaya çıkarıp bunu milli politika biçimine getiren,yönetimi döneminde sık sık kurultaylar toplayarak milletine “hesap veren” ve tüm bunları kardeşi Kül Tigin’in ölümünden sonra yazdırttığı “mengütaş’larda(Orkun anıtları) da bizzat anlatan ve son olarak da gerek Türk dili, gerek de edebiyatı ve içeriği açısından, dünyada bir eşi daha bulunmayan yazıları yazdırtan ulu kişi…İlteriş Kutluk Kağan’ın büyük oğlu, Kül Tigin’in ağabeyi.
+BİLGE KAĞAN: Bilge/Kağan (Aslı, Türk Bilge Kağan’dır) Türk tarihinin, bir çok nedenlerle en önde gelen kişilerinden. Türk Milliyetçiliğini devlet siyasetine sokan, ona sosyal, ve siyasal bir kimlik vererek, devlet-millet bütünleşmesini sağlayan, milliyetçiliğe “zaman boyutu”nu kazandırıp, onu çağlar ötesine götürebilmeyi amaçlayan ve ilk defa “ Birleşik Türk Devletleri” fikrini ortaya çıkarıp bunu milli politika biçimine getiren,yönetimi döneminde sık sık kurultaylar toplayarak milletine “hesap veren” ve tüm bunları kardeşi Kül Tigin’in ölümünden sonra yazdırttığı “mengütaş’larda(Orkun anıtları) da bizzat anlatan ve son olarak da gerek Türk dili, gerek de edebiyatı ve içeriği açısından, dünyada bir eşi daha bulunmayan yazıları yazdırtan ulu kişi. İlteriş Kutluk Kağan’ın büyük oğlu, Kül Tigin’in ağabeyi.
 BİLGE TAMGAÇU: birl. Bilge/Tamgacı T…Göktürkler ve Uygurlar döneminde yüksek dereceli memurlara verilen bir unvan
 BİLGE TONYUKUK: birl. Bilge/Tonyukuk T…Göktürkler dönemi, ünlü, devlet adamı, siyaset bilimci ve tarihçisi…II Göktürk kağanlığının kuruluşunda önemli rolü olan, hem İlteriş Kutluğ Kağan’ın yakın yoldaşı ve başkanlığını, hem de Bilge Kağan’ın başbakanlığını yapan ve kendi adına da yazıtlara yazı yazdıran ulu kişi BİLGEN: Bilen, bilgin, alim
 BİLGİN: Bilim adamı
@@ -800,7 +794,7 @@ BİTİG: Yazı, yazıt
 BİTİGÇİ: Katip, yazıcı
 BİTİGEN: Anıt, yazıt, yazılı taş
 BİTİM: Gaye, hedef, ülkü
-BİTKİ (Bütkü) yerden biten
+BİTKİ: (Bütkü) yerden biten
 BİYAN: (Bayan) (Buyan) Varlıklı, cömert ,Eski Tanrı sıfatlarından
 BİYUM: Cömert, eli açık
 BOD: Boy,uruk
@@ -825,7 +819,7 @@ BORDU: Üzüm, asma
 BORKA: Baraka,ev
 BORLA: Burla, üzüm, üzüm salkımı
 BOSUM: Endam, zerafet
-BOSUT (Basat) anlayış, izan, hidayet
+BOSUT: (Basat) anlayış, izan, hidayet
 BOŞGUR: Eğitmen, öğretmen, talimci
 BOŞGUT: Öğrenci, şakirt
 BOY: 1- Uruk, uyruk, oymaklar birliği 2- Eda, endam
@@ -842,8 +836,7 @@ BOZCAK: Cesur
 BOZÇİN: Dürüst, güvenilir
 BOZDOĞAN: birl. Boz/Doğan Bir doğan türü
 BOZKIR: Step, çöl, vaha
-BOZKURT: birl. Boz/Kurt
-ğuz Kağan destanında, Oğuz’a yol gösteren efsane kurt. Genel olarak Türk boylarının hemen tamamında, Türklerin karakteristik özelliklerini üzerinde taşıdığına inanılan “Milli sembol” pozisyonundaki hayvan (Önceleri “Gökbörü” olarak kullanılan bu ad, Selçuklular döneminden sonra, daha yaygın olarak “Bozkurt” olmuştur.)
+BOZKURT: birl. Boz/Kurt Oğuz Kağan destanında, Oğuz’a yol gösteren efsane kurt. Genel olarak Türk boylarının hemen tamamında, Türklerin karakteristik özelliklerini üzerinde taşıdığına inanılan “Milli sembol” pozisyonundaki hayvan (Önceleri “Gökbörü” olarak kullanılan bu ad, Selçuklular döneminden sonra, daha yaygın olarak “Bozkurt” olmuştur.)
 BOZLAK: 1- Boz ve kül renginde olan 2- Otlak, mera
 BÖBÜLÜK: Koca, gül
 BÖÇKE:1- Canavar 2- Böcek
@@ -869,10 +862,9 @@ BÖNGER: Tekmeleyici, iyi tekme atan
 BÖRÇE: Zülüf
 BÖRÇEK: Zülüf
 BÖRİ: Kurt Göktürkler ve Uygurlar dönemlerinde Kağan muhafızlarına verilen genel bir ad.
-BÖRİTEÇİNE (Börteçine) Benekli bozkurt
-Ergenekon destanlarının çeşitli versiyonlarından birinde, Ergenekon’dan çıkışı gösteren dişi kurt,bir diğerinde ise bu addaki demirci ustası olarak geçer.
+BÖRİTEÇİNE: (Börteçine) Benekli bozkurt Ergenekon destanlarının çeşitli versiyonlarından birinde, Ergenekon’dan çıkışı gösteren dişi kurt,bir diğerinde ise bu addaki demirci ustası olarak geçer.
 BÖRK: Başlık, tüylü hayvan derilerinden yapılan başlık
-BÖRKLÜ(Ğ) Saygıdeğer
+BÖRKLÜ(Ğ): Saygıdeğer
 BÖRKLÜCE: Saygıdeğer, saygı gösterilen
 BÖRTE: Benek
 BÖRÜ: (Böri) Kurt
@@ -885,7 +877,7 @@ BUDAY: Buğday
 BUDRAÇ: Gözü pek, cesur
 BUDULGAN: Yürekli,cesur
 BUDUN: Bütün, Ulu, millet “ Siyasi ve dini yapıları ne olursa olsun soy,dil, töre, kültür, tarihsel yapıları bir olup, psikolojik olarak birbirine bağlı insan topluluğu.Türkçe’de kullanılan millet ve ulus sözcükleri tam olarak bu anlamı içermektedir. Millet, din ortaklıklarını daha ön planda tutan bir anlam içerirken Ulus ise, daha çok boy ve uruk anlamlarını içerir.Buna rağmen yakın zamana kadar millet, son zamanlarda ise ulus sözcükleri dilimize yer etmiştir. Oysa gerek günlük dilimizde gerek yazı dilimizde bu sözcüğün bir an önce kullanıma girmesi gerekmektedir.”
-BUDUNÇAR (Budunçu-Yir) Sözcüğünün tam anlamıyla” Ulusçu”, “milletçi” “Oğuz Töresi”’ni yeniden gündeme getirip, yürürlüğe koyan kişi
+BUDUNÇAR: (Budunçu-Yir) Sözcüğünün tam anlamıyla” Ulusçu”, “milletçi” “Oğuz Töresi”’ni yeniden gündeme getirip, yürürlüğe koyan kişi
 BUDUNÇİ: Buduncu, Ulusçu
 BUDUNÇİYİR: birl. Buduncu/Yir,yer toprak
 BUGA: Boğa
@@ -959,8 +951,7 @@ BUYANDI: Kutlu, bahtı açık
 BUYRA: Kıvırcık, kıvrılmış, bürülmüş
 BUYRAÇ: Amir, buyuran
 BUYRAT: Engebe, engel
-BUYRUK: 1- Emir, buyruk, buyurma 2- Göktürkler döneminde vezir, (bakan) anlamına da
-kullanılmıştır.
+BUYRUK: 1- Emir, buyruk, buyurma 2- Göktürkler döneminde vezir, (bakan) anlamına da kullanılmıştır.
 BUYURUK: Buyruk, emir
 BUZAÇ: Bozucu, bozguna uğratan
 BUZAN: Bozan, düşman birliğini dağıtan
@@ -998,7 +989,7 @@ CAKŞI: Yakşı, yakışıklı, güzel
 CALMAN: Yalman
 CAMAN: 1- Yaman, 2- Kam, büyücü
 CAMANBAY: birl. Caman/Bay..Şamanist gelenekte, obanın büyücüsü,doktoru, kötü ruhları kovan kişi
-CAMUGA (Camuka) Kızgın, asabi
+CAMUGA: (Camuka) Kızgın, asabi
 CANİK: Tüccar, ticaret erbabı
 CANKU: Meşveret
 CARIP: Yakın, dost, çok yakın arkadaş
@@ -1014,8 +1005,7 @@ CAYMAZ: Cesur, kararlı
 CAYNAK: Pençe, Doğan pençesi
 CEBE: 1- Silah,ok, cephane 2- Zırh
 CEBEN: Gayretli, çalışkan
-CEBENOYAN: Cebe/Noyan
-Çengiz Kagan’ın dünyaca ünlü komutanı ve yakın arkadaşı.(Çengiz’in bütün Türkleri bir bayrak altında toplama fikrinin mimarı bu ulu kişidir.)
+CEBENOYAN: Cebe/Noyan Çengiz Kağan’ın dünyaca ünlü komutanı ve yakın arkadaşı.(Çengiz’in bütün Türkleri bir bayrak altında toplama fikrinin mimarı bu ulu kişidir.)
 CELASUN: (Çalasun) 1- Delikanlı 2- Cesur, savaşçı 3- Becerikli, eli tez.
 CELAYIR: (Çalayır) 1- Bilgin, gün görmüş, tecrübeli 2- savaşçı
 CELDEN: Yel, yel parçası
@@ -1044,13 +1034,12 @@ CİNGÜ: Zafer, utku
 CİVİL: İyi ruh, temiz , arınmış ruh
 COLAY: (Yolay) birl. Yol/Ay…Kazaklarda “ayağı uğurlu” kişiler için kullanılır.
 COLDA: Yolcu, yola çıkan
-CUCİ: 1- Cici, çiçi, cicik, çiçek, çuçu, çuçi 2- Konuk..Bu ad daha çok, beklenmeyen doğumlar sonrası
-kullanılır ve bu yüzden “konuk” anlamını içerir
+CUCİ: 1- Cici, çiçi, cicik, çiçek, çuçu, çuçi 2- Konuk..Bu ad daha çok, beklenmeyen doğumlar sonrası kullanılır ve bu yüzden “konuk” anlamını içerir
 CULUM: Narin, nazik, hassas CUMUK: Yumuk, yumulmuş
 CUPAR: Parfüm, güzel koku
 ÇABA: Gayret, enerji
 ÇABACI: Gayretli, enerjik
-ÇABAK (Çaba)1-Çabuk,çevik 2- Küçük bir göl balığı türü
+ÇABAK: (Çaba)1-Çabuk,çevik 2- Küçük bir göl balığı türü
 ÇABAR: 1- Çapar, davranır 2- Ulak, kurye, elçi
 ÇABUK: (Çapuk) Çapan, çaba gösteren, çabalayan
 ÇAÇA: 1- Savaş baltası 2- Gemici 3- Çiçi, çiçik
@@ -1060,8 +1049,7 @@ CUPAR: Parfüm, güzel koku
 ÇAĞAN: 1- Bayram, eğlence 2- Şimşek 3- gürz, çakan 4- Beyaza kaçan beyazımsı
 ÇAĞANAK: Çalgı, enstrüman
 ÇAĞAŞ: Kırlangıç
-ÇAĞATAY: birl. Çağ/Atay
-1-Çağının en ünlüsü 2- çağdaş, çağının ilerisinde
+ÇAĞATAY: birl. Çağ/Atay 1-Çağının en ünlüsü 2- çağdaş, çağının ilerisinde
 ÇAĞDAŞ: Çağın insanı, aynı çağda yaşayan kişiler
 ÇAĞIL: 1- Su sesi 2- Çakıl taşı
 ÇAĞILDAK: Çağlayan, şelale
@@ -1231,7 +1219,7 @@ CUPAR: Parfüm, güzel koku
 ÇOĞAŞ: 1- Debdebe, şaşa 2- Vahşi hayvan yavrusu
 ÇOKAN: 1- Gürz, topuz 2- Hayvan yavrusu
 ÇOKU: 1- Debdebe, şaşa 2- Bolluk, bereket
-ÇOLAK (Çalak) Silahşör, iyi kılıç çalan
+ÇOLAK: (Çalak) Silahşör, iyi kılıç çalan
 ÇOLBANAK: 1- Uzak görüşlü 2- Törenin dışında kalan 3- Nikahsız ilişkiden doğan çocuk (Hakas Türklerinde)
 ÇOLDU: 1- Bahşiş, mükafat 2- Ganimet
 ÇOLPAN: 1-Kuzey yıldızı 2- Uzak görüşlü 3- Tanıdık, bildik, aşina
@@ -1300,9 +1288,8 @@ DEMİRAĞ: Zırh, örgülü göğüslük birl. Demir/Ağ
 DEMİRDEN: Demir parçası
 DEMİRDÖĞEN: birl. Demir/Döğen mec. Acı kuvvet sahibi
 DEMİRGEN: 1- Demir, ham demir 2- temren, okun ucundaki demir parçası
-DEMİRHAN: birl. Demir/Han
-Şamanist gelenekte “ Maden Tanrısı”
-DENERİ. Dikkat, itina
+DEMİRHAN: birl. Demir/Han Şamanist - Eski türk gelenekte “Maden Tanrısı”
+DENERİ: Dikkat, itina
 DENGİZİK: Denizcik, küçük deniz, göl
 DENİZ: Deniz, büyük göl
 DENLİ: Edepli, terbiyeli
@@ -1325,7 +1312,7 @@ DİLER: Dileyen, dileyici
 DİLİM: kesik, bölüm, bölünmüş, biçimlenmiş
 DİNÇ: Zinde, sağlam, dirençli
 DİNLER: Terbiyeli, munis, muti
-DİP. Baht, talih
+DİP: Baht, talih
 DİPÇİN: 1- Bahtı açık 2- Sağlam, dayanıklı
 DİREK: 1- Dirilik, sağlamlık, ayakta kalmak 2- Temel, dayanak 3- Vezir,bakan
 DİREN: Direnç, karşı koyuş, dirilik
@@ -1376,8 +1363,7 @@ DÖĞÜŞGEN: Kavgacı, savaşçı
 DÖKÜMHAN: birl. Böküm/Han 1- Dökmekten döküm 2- Düğüm, bağ
 DÖLEK: 1- Çok döl veren 2- Koyunun kuzuladığı yer 3- İtibarlı, saygıdeğer, maharetli
 DÖLEN: Muti, sevgi gösteren
-DÖNDER: (Döne, döndü gibi “dönmek” fiilinden türetilmiş, çocukları ölen ailelerin, yeni
-çocukları olduğunda kullandıkları adlardan)
+DÖNDER: (Döne, döndü gibi “dönmek” fiilinden türetilmiş, çocukları ölen ailelerin, yeni çocukları olduğunda kullandıkları adlardan)
 DÖNDÜ: Dönüş yapan (Reenkarnasyon) çocukları ölen ailelerin verdiği adlardan
 DÖNGEL: Saat
 DÖNGÜ: Dönüşüm, başa dönüş
@@ -1476,7 +1462,8 @@ ELÇİM: Demet, tutam
 ELÇİN: 1- Demet, bağ, buket 2- Ekin biçerken kullanılan bir alet 3- Devlet görevlisi, devletine bağlı
 ELDEK: 1- basiret, kabiliyet, eylem gücü 2- Yedek, elde bulunan
 ELDEM: 1-Alışkın, yetişkin 2- Sevimli, cana yakın 3- evcil koyun
-ELDÜZ: birl. El/Düz Yurtsever ELEZ: (Eliz)Arı,duru, temiz, munis, uyumlu Yakut destanlarında bekaret tanrıçası (Ulu Tuyun’un kızı)
+ELDÜZ: birl. El/Düz Yurtsever 
+ELEZ: (Eliz)Arı,duru, temiz, munis, uyumlu Yakut destanlarında bekaret tanrıçası (Ulu Tuyun’un kızı)
 ELGAY: Yurtsever
 ELGİN: 1- Konuk, öncelik verilen kişi 2- Gurbetçi, yurdundan uzak
 ELGÖRMÜŞ: Gezgin, seyyah
@@ -1509,6 +1496,7 @@ ENİCUK: Hısım, kavim- kardeş
 ENİŞ: (Enuş) 1- İniş, yokuşun karşılığı mec. Rahata ve huzura erme 2- Uçlarda, ekstrem
 ENKİŞ: Tecrübeli, deneyimli, olgun
 ER: 1- Olgun,olmuş, ergin, yetişkin erkek 2- Asker, çeri
+ERAY: 1- Bilgili, Yiğit, Bilen Er 2- Şen, Yiğit, Şen Erkek 3- Ay Gibi Parlak, Temiz Erkek 4- (tdk) Ayın hilal durumu, yeni ay. 
 ERÇE: birl. Er/Çe…Erkeğe yakışır biçimde
 ERÇİN: Ülkenin idari bölümlerinden her biri (İl, ilçe, kasaba vb.)
 ERDEM: ( Ertem) Fazilet, bilgelik, yücelik, hünerlilik
@@ -1605,7 +1593,8 @@ EVGİN: 1- Aceleci, telaşlı 2- Evcil, evine bağlı
 EVİN: Cevher, öz, nüve
 EVİRGEN: 1- Tedbir, tedbirli 2- Dönüşüm, çevirim
 EVREN: 1- Kainat 2- Ejderha, canavar 3- Baht, talih
-EVRENSEL: Evreni kaplayan, evreni içine alan EYGİ: İyi, salih, temiz
+EVRENSEL: Evreni kaplayan, evreni içine alan 
+EYGİ: İyi, salih, temiz
 EYGİŞ: İyi kişi, iyi insan
 EYGÜ: İyi, iyice
 EYİN: Vücut
@@ -1882,8 +1871,7 @@ IŞIN: Güneş parıltısı, ışık parıltısı, yansısı
 IYIŞ: Armağan, hediye, ihsan
 İBAR: Parfüm, koku, misk
 İÇ: 1- Öz, görünmeyen yan, bir nesnenin öz yapısı 2- İçerde kalan kısım, iç kısım
-İÇBUYRUK: birl. İç/Buyruk
-Saraylardaki iç hizmetle görevli kişi
+İÇBUYRUK: birl. İç/Buyruk Saraylardaki iç hizmetle görevli kişi
 İÇEN: (İçin) İçli, duygusal
 İÇER: İçeride, kapalı, mahfuz
 İÇERGE: (İçergu) İçten, samimi
@@ -1908,6 +1896,7 @@ Saraylardaki iç hizmetle görevli kişi
 İDGÜ: 1- İyi, güzel 2- Tanrısal, mübarek
 İDİ: (İdik) 1- Tanrı, rab, sahip, efendi 2- Tanrısal, Tanrıdan gelen, mübarek, kutlu
 İDİKUT: birl. İdi/Kut…Kut sahibi, Tanrıdan gelen, Tanrıya yakın, Tanrıya benzer, Tanrı tarafından görevlendirilmiş vb. anlamları içeren ve Uygur kağanlarının büyük çoğunluğunun kullandığı bir unvan İDUK: İdi, Tanrısal, mübarek
+İDİL: (itil) 1- Kır hayatını konu edinen yazı veya şiir, aşk hakkında. 2- Küçük ve şairane resim. 3- İçten ve saf aşk. 4- Volga (idil, itil) Nehri’ne Türklerin verdiği isim
 İGAN: Yıkan, yıkıcı, deviren
 İGİT: 1- Yiğit 2- Bakıcı, eğitici
 İĞDİ: (İğdir) Yetkin, ehil, iyice
@@ -1970,8 +1959,8 @@ Saraylardaki iç hizmetle görevli kişi
 İMER: Hayırsever, iyilik sahibi
 İMGE: 1- İyi, yararlı 2- İz, belirti 3- Tasavvur, zihinsel sembol
 İMİŞÇİ TUNGATAR: birl. İmişçi/Tunga/Tar..Kaplanlarla dövüşen cesur kişi
-İMRAG (imrağ-İmrak): Aşık, derviş, dost
-İMRE (Emre-İmrağ): 1- Ağabey,ağa 2- Beylerbeyi 3- Aşık, derviş, dost
+İMRAG: (imrağ-İmrak) Aşık, derviş, dost
+İMRE: (Emre-İmrağ) 1- Ağabey,ağa 2- Beylerbeyi 3- Aşık, derviş, dost
 İMREN: İmrenmekten…imrenilen, iç geçirten
 İNAK: 1- Kardeş, kardeş çocuğu 2- Han ve beylerin en güvenilir adamı ve yardımcısı
 İNAL: 1- Soylu, Kağan yada Hanların ana tarafından akraba 2- Anası Kağan yada Han soyundan olup babası kara budundan, halktan olan kişi 3- Avrupa’daki, kont, baron vb. unvanların Türkçe’deki karşılığı 4- Emin ve güvenilir kişi
@@ -1997,8 +1986,7 @@ Saraylardaki iç hizmetle görevli kişi
 İRGİN: (İrge) Uygurlar ve Karluklar dönemi memuriyet unvanlarından
 İRİK: Sert, katı, iri
 İRİM: Müjde, iyi haber
-İRİS: 1- Kurtuluş, hürriyet 2- Iras, ıraz
-Türk mitolojisindeki tanrıça adlarından “kötü ruhları kovup, tamuya gönderen tanrıça”
+İRİS: 1- Kurtuluş, hürriyet 2- Iras, ıraz Türk mitolojisindeki tanrıça adlarından “kötü ruhları kovup, tamuya gönderen tanrıça”
 İRKİL: 1- Ululuk, heybet, cesaret 2- Aksakal,kam, baksı
 İRKİN: Olgun, bilge, ulu
 İRKİT: Ürküt, ürkütücü, heybetli
@@ -2416,7 +2404,7 @@ KOÇAN: 1- Centilmen, kibar 2- Koşan, koşucu
 KOÇAŞ: Rehber, yol gösteren, önde giden
 KOÇGAR: (Kaçgar,kaşgar) 1- Koç başı 2- Koç gibi, koç yiğit
 KOÇİ: Koç gibi, koç yürekli
-KOÇLUĞ:( Koçluk) Koç olacak kuzu
+KOÇLUĞ:(Koçluk) Koç olacak kuzu
 KOÇO: Kibar, mert
 KOÇU: 1- Koç gibi 2- Kibar, centilmen
 KOÇUM: 1- Yiğit, mert 2- Koşum, koşma
@@ -2556,8 +2544,7 @@ KUANÇI: Kıvanç
 KUBAL: Gürz, demir topuz.
 KUBAN: Kapan
 KUBAT: Kapalı, gizli
-KUBAY: birl. Kubi/Ay
-Yakutların eski dönem “Temizlik Tanrıçası”
+KUBAY: birl. Kubi/Ay Yakutların eski dönem “Temizlik Tanrıçası”
 KUBİ: (Kubil) Gökyüzü, feza, sema. Mec. Başsızlık ve sonsuzluk.
 KUCAN: Göçen, göçer
 KUCAR: Göçer, göçücü KUÇAM: Deste, demet, bağ
@@ -2702,8 +2689,7 @@ KÜLÜG: (Külük) 1-Ünlü, meşhur, çok tanınan 3-Hızlı,seri
 KÜLÜNK: Kazma
 KÜMÜŞ: Gümüş
 KÜN: Gün, güneş
-KÜNANA: birl. Gün/Ana
-Şamanist gelenekte, göğün yedinci katına bakan tanrıça
+KÜNANA: birl. Gün/Ana Şamanist - Eski türk gelenekte, göğün yedinci katına bakan tanrıça
 KÜNÇEK: Güneşlik, şemsiye
 KÜNDEŞ: 1- Gündeş, güneşe eş değerde 2- İzci, takipçi, halef
 KÜNDÜN: Gün ışığı
@@ -2750,8 +2736,7 @@ MENGİ: Mengü, bengi, bengü
 MENGİLİK: Sonsuzluk
 MENGÜ: Ebedi, sonsuz, sonsuza kalan, sonsuzluk, ölümsüzlük
 MENGÜÇ: Sonsuzluk, sonsuzluğa ulaşmış, ermiş, ulu, saygıdeğer
-MENGÜÇ ATA: birl. Mengüç/Ata
-Bilgi ve tecrübesine başvurulan ulu ve bilge kişi
+MENGÜÇ ATA: birl. Mengüç/Ata Bilgi ve tecrübesine başvurulan ulu ve bilge kişi
 MENGEN: 1- Nişancı, iyi ok atan, okçu 2- Becerikli, mahir
 METE: 1- Soylu, saygıdeğer 2- Bütün, bütünlük, bütünlükçü
 METEHAN: birl. Mete/Han Hun kağanlarının en ünlüsü. Aynı soy ve kökten gelen boylar arasında, kan dökülmesini yasaklamış hepsinin tek bir devlet çatısı altında toplanması gerektiğini,bunun aynı zamanda Türk Tanrısı’nın bir emri olduğuna inanarak bu yolda mücadele etmenin ve bunun getireceği sonuçların,en büyük ve paha biçilmez bir mutluluk olduğuna inanmış, bunu da ayrıca,devlet politikası biçimine getirmişti.Türk töresine devlet idaresine sokan,ilk düzenli ve sınıflı kara ordusunu kuran,”Birleşik Türk Devletleri ülküsünü devlet siyaseti olarak ve bunu gerçekleştiren ilk Türk büyüğü. MİN: 1-Bin,bin sayısı. 2-ben,gamze
@@ -2762,7 +2747,7 @@ MİNGİR: Çok külliyetli.
 MOĞOL:Kaygı,endişe,hüzün Oğuz’un amcası ve ilk kayın atası
 MOKAN: Büken, güçlü
 MONGUÇ: Atik, çevik, hamleci
-MOTUN: Bütün, bütünlük ( Mete Han’ın asıl adının bu olduğunu söyleyen tarihçiler de var.)
+MOTUN: Bütün, bütünlük (Mete Han’ın asıl adının bu olduğunu söyleyen tarihçiler de bulunmaktadır.)
 MUGLU: Üzgün, hüzünlü
 MUNAR: Serap, algın
 MUNCUK: Boncuk, takı, mücevher
@@ -2786,10 +2771,8 @@ OCAKLI: Ocak sahibi.
 OD: Ot, ateş
 ODAK: Ocak, yanma, yansıma merkezi
 ODAKAN: Hanım ozan
-ODANA: birl. Od/Ana
-Şamanist gelenekte, “Dişi Melek”
-ODATA: birl. Od/Ata
-Şamanist gelenekte “erkek melek”
+ODANA: birl. Od/Ana Şamanist gelenekte, “Dişi Melek”
+ODATA: birl. Od/Ata Şamanist gelenekte “erkek melek”
 ODÇU: Ateşçi
 ODGURMUŞ: 1- Oturmuş, oturaklı, sakin, kendinden emin 2- Yuva kuran, birlik kuran
 ODHAN: birl. Od/Han Şamanist gelenekte, “Ateş Tanrısı” OG: Ok (Doğma, doğum, yaratılış)
@@ -2798,8 +2781,7 @@ OGLAĞU: Körpe, genç kız
 OGRAK: 1- Azim, kararlılık 2- Niyet
 OGRAŞ: Uğraş, mücadele, meşgale
 OGSAT: Benzer, benzerlik, benzeyiş
-OGTADURMUŞ: birl. Okda/Durmuş ( Bu ad, iki anlamda da yorumlanabilir. Akıllı, zeki Durmuş. Zor
-durumda kalan, zor koşullarda olan)
+OGTADURMUŞ: birl. Okda/Durmuş ( Bu ad, iki anlamda da yorumlanabilir. Akıllı, zeki Durmuş. Zor durumda kalan, zor koşullarda olan)
 OGUR: 1- Gizlilik, gizem 2- Uğur, baht, talih, mutluluk
 OGURLU: Uğurlu
 OGURMUŞ: Gizemli, ağzı sıkı
@@ -2868,7 +2850,7 @@ ONANMIŞ: Sağlam, bayındır, destekli
 ONAT: 1- Sağlam, dayanıklı 2- Yakışıklı 3- Terbiyeli, iyi davranışlı
 ONATÇA: Makbul, hatırşinas
 ONAY: 1- Sağlam, dayanıklı, uygun 2- Makul, kabul,tasdik
-ONG. 1- Sağlamlılık, kalıcılık, dayanıklılık 2- İyilik, rahmet, bereket, bolluk 3- Sevinç, neşe, mutluluk
+ONG: 1- Sağlamlılık, kalıcılık, dayanıklılık 2- İyilik, rahmet, bereket, bolluk 3- Sevinç, neşe, mutluluk
 ONGAN: 1- Uğurlu, mutlu, bahtiyar 2- Verimli, gelişkin 3- Bayrak, simge, totem
 ONGU: 1- Kar, kazanç 2- Set, sütre
 ONGUÇ: Karlı, kazançlı, verimli, uğurlu
@@ -2918,8 +2900,7 @@ ORUNTAG: Yüksek mevki, makam
 ORUS: 1- Talih, uğur, baht, mutluluk 2- Amaç, hedef
 OSKAY: 1- Hamarat, işgüzar 2- Neşeli, şen
 OT: 1- Ateş, ocak, ev 2- Nebat, bitki OTACI: (Utacı) 1- Doktor 2- Eczacı, ot ve bitkilerden ilaç yapan kişi 3- kam, baksı
-OTAĞ: 1- Oda, içinde ateş yakılarak oturulabilen büyük ve geniş çadır 2- Yeni evlenenlere armağan
-edilen ev, çadır
+OTAĞ: 1- Oda, içinde ateş yakılarak oturulabilen büyük ve geniş çadır 2- Yeni evlenenlere armağan edilen ev, çadır
 OTAĞA: birl. Ot/Ağa ..evin reisi, aile reisi, evde sözü geçen kişi
 OTAK: Yeni evlenenlere armağan edilen ev, çadır, oda
 OTAMIŞ: Doktor, hekim
@@ -2929,7 +2910,7 @@ OTÇİGEN: birl. Ot/Çigen (“Ot/Tigin” adının , Moğol ağzındaki söylen
 OTGUN: Kabadayı.
 OTKUN: Kabadayı.
 OTLUĞ(K): Ateşli
-OTMAN: Ailenin en küçük oğlu. Ocağın ateşini yakıp ısıtacak ve devamlılığı sağlayacak olan, Çok eskilerden beri süregelen,Türk töresince çocuklar arasındaki paylaşımlarda ev , en küçük çocuğa kalır. Bu yüzden ilerde evin yada mülkün idaresi küçük oğlandadır. Yani, ocak,onunla yanmaya devam edecek,aile oba yada oymağın yaşamı onun sayesinde sürecektir. Bu çocuklara içeren ”Otman,Ot Tigin,Othan” vb. adlar verilir. Osmanlı devletinin kurucusu ve ilk hanı. Ertuğrul Beğ’in en küçük oğlu. Daha Ertuğrul Bey ölmeden,Töreye göre,birçok mal mülk, büyük çocuklara, beylik, en küçük olan Otman (bilinen diğer şekliyle Osman)’a geçmişti.
+OTMAN: Ailenin en küçük oğlu. Ocağın ateşini yakıp ısıtacak ve devamlılığı sağlayacak olan, Çok eskilerden beri süregelen,Türk töresince çocuklar arasındaki paylaşımlarda ev, en küçük çocuğa kalır. Bu yüzden ilerde evin yada mülkün idaresi küçük oğlandadır. Yani, ocak,onunla yanmaya devam edecek,aile oba yada oymağın yaşamı onun sayesinde sürecektir. Bu çocuklara içeren ”Otman,Ot Tigin,Othan” vb. adlar verilir. Osmanlı devletinin kurucusu ve ilk hanı. Ertuğrul Beğ’in en küçük oğlu. Daha Ertuğrul Bey ölmeden,Töreye göre,birçok mal mülk, büyük çocuklara, beylik, en küçük olan Otman (bilinen diğer şekliyle Osman)’a geçmişti.
 OTMAR: Ateşli, ateş saçan
 OVAT: Düzgün, muntazam
 OVLAZ: Gözü pek, atılgan
@@ -2972,8 +2953,7 @@ OZUTGAN: İleride, ilerici
 ÖDGÜLMÜŞ: 1- Övülmüş, övülen, başarılı, ödül almış 2- Ricacı, duacı
 ÖDGÜR: Uygun, yerinde, vaktinde
 ÖDRÜM: Seçkin, mümtaz
-ÖDÜGET: Ricacı, yakarıcı, duacı
-Yakutlarda, “ Akarsular Tanrısı”
+ÖDÜGET: Ricacı, yakarıcı, duacı Yakutlarda, “Akarsular Tanrısı”
 ÖDÜK: Rica, yakarı, dua, niyaz, arzu
 ÖDÜL: 1- Usluluk, akıllılık 2- Yüceltme, ululama, mükafat
 ÖDÜN: 1- Ödeme, ödeyiş 2- Yakarış, niyaz
@@ -3173,8 +3153,7 @@ PUSUNÇ: İltica, sığınma, sinme, pusma, sığınmış, mülteci
 PÜSKÜL: Sarkık, asılı duran süs, aksesuar
 SABA:(Sava) 1- (Sapa, sopa) Sopa, değnek, savma aleti, savaş aleti 2- Söz, iddia, hitap
 SABACI: 1- Sopacı, sopayla dövüşen 2- Konuşmacı, hatip
-SABAK: (Savak) 1- Sopa, cop sopa kullanan, dövüşçü, sopa ile dövüşen 2- Kımız saklamak için beygir
-derisinden yapılan tulum
+SABAK: (Savak) 1- Sopa, cop sopa kullanan, dövüşçü, sopa ile dövüşen 2- Kımız saklamak için beygir derisinden yapılan tulum
 SABAR: 1- Sapar, savar, döver, sopayla döven 2- Savar, savaşır, savaşçı 3- Hatip, konuşmacı
 SABI: 1- Sopa, cop 2- Savaş, dövüş 3- Söz, sohbet
 SABU: 1- Sopa, cop, değnek 2- Savaş, dövüşçü, dövüş ustası, savaşçı
@@ -3218,16 +3197,14 @@ SAKA: 1- Akıllı, arif 2- Düşünceli, kaygılı 3- Sakal 4- Saklı, saklayan,
 SAKAR: 1- Alnında beyaz lekesi bulunan at 2- Uğursuz, sakıncalı
 SAKÇI: Koruyucu, muhafız
 SAKIK: Çoban yıldızı
-SAKIN: 1- Düşünme, tasarım, kaygılanma, kaygıyı ortadan kaldırma eylemi 2- Saklama,
-koruma,esirgeme 3- Uzaklaşma, ayrılma
+SAKIN: 1- Düşünme, tasarım, kaygılanma, kaygıyı ortadan kaldırma eylemi 2- Saklama, koruma,esirgeme 3- Uzaklaşma, ayrılma
 SAKINÇ: Düşünce, kaygı
 SAKIŞ: Kaygı, endişe
 SAKLI: 1- Korunmuş, mahfuz, esirgenen 2- Zinde, dinç, sağlıklı
 SAKLICA: 1- Gizli, örtülü, korunan 2- Hazine, mücevher
 SAKLIÇAK: 1- Gizli, gizlenmiş, örtülü 2- Yaşam, sağlık, esenlik
 SAKMAN: 1- Uyanık, diri, sağlam 2- Sokman, dize kadar çıkan çizme
-SAL: 1- Saldırı, saldırmak 2- Salmak, bırakmak, azat etmek, serbestlik 3- göndermek,
-yaymak,ulaştırmak, uzatmak
+SAL: 1- Saldırı, saldırmak 2- Salmak, bırakmak, azat etmek, serbestlik 3- göndermek, yaymak,ulaştırmak, uzatmak
 SALAÇAK: Salınan, bırakılan, salınmış
 SALACUK: Saldıran, saldırıcı, gönderici
 SALAMAN: Salınan, bırakılan, azat edilen, serbest, azade
@@ -3235,8 +3212,7 @@ SALAMIŞ: 1- Saldıran, düşmana karşı hamle ve manevra yapan 2- İyi kılı�
 SALANÇU: Saldırgan, iyi kılıç kullanan
 SALAR: 1- Ordu sevk eden 2- İyi kılıç kullanan, silahşor
 SALÇI: 1- Salıcı, sevk edici 2- Salan, serbest bırakan 3- Karahanlılar döneminde, saray aşçılarının unvanlarından
-SALÇUK: 1- Salınmış, azat edilmiş, saltuk, eski köle 2- Başına buyruk, bağımsız, otoriteye karşı çıkan 3-
-Saldıran 4- Silahşor, iyi silah kullanan 5- Küçük yel, esinti 6- Haber salan, mesaj yollayan
+SALÇUK: 1- Salınmış, azat edilmiş, saltuk, eski köle 2- Başına buyruk, bağımsız, otoriteye karşı çıkan 3- Saldıran 4- Silahşor, iyi silah kullanan 5- Küçük yel, esinti 6- Haber salan, mesaj yollayan
 SALDIRAN: Hücum eden, asker sevk eden
 SALDIRGAN: Saldırıcı, hücumcu
 SALDIRI: Hücum, taarruz
@@ -3387,8 +3363,7 @@ SEVİMLİ: Çekici, sempatik
 SEVİN: Sevinç, mutluluk
 SEVİNÇ: Neşe, coşku, sevinme duygusu, mutluluk
 SEVİNÇEK: Sevinilecek şey, sevinç kaynağı
-SEVİNDÜK: Mutluluk, bahtiyarlık (Uzun süren bir çocuksuzluk döneminden sonra, çocukları olan ailelerin
-sık kullandığı, geleneksel adlardan)
+SEVİNDÜK: Mutluluk, bahtiyarlık (Uzun süren bir çocuksuzluk döneminden sonra, çocukları olan ailelerin sık kullandığı, geleneksel adlardan)
 SEVİNMİŞ: Sevinçli, mutlu, mutlu olmuş
 SEVİNTİ: 1- Mutluluk, mutlu olmaya değen 2- Ferahlık, gevşeme, rahatlık, huzur
 SEVÜK: Sevilen, sevgili, canan
@@ -3473,8 +3448,7 @@ SOLMAZ: Canlı, diri, çekici
 SOLTU: Soludu, soluklu
 SOLUK: Nefes, can
 SONGAR: Sungur, şahin
-SONUÇ: 1- Son, bitim, kıyı 2- Uç, sınır, limit
-Otmanlı ve Salçuklular döneminde, sınır karakollarında görev yapan kişiler verilen bir ad
+SONUÇ: 1- Son, bitim, kıyı 2- Uç, sınır, limit Osmanlı ve Selçuklular döneminde, sınır karakollarında görev yapan kişiler verilen bir ad
 SORGUÇ: Başa takılan çelenk
 SORGUN: Söğüt türü bir ağaç
 SOYÇA: Soylu, soyluca
@@ -3545,8 +3519,7 @@ SÜLEK: Saldırgan, akıncı
 SÜLEMİŞ: 1- Akıncı, saldırgan, düşman üzerine asker yollayan 2- İyi silah kullanan, silahşor
 SÜLÜN: Uzun kuyruklu, renkli bir kuş
 SÜNE: Ruh, can
-SÜNGÜ: (Süngük) 1- Kesici ve delici, uzun bıçak 2- Kemik, kemik parçası, kemikle yapılan mızrak 3-
-Eskiden, mezar başlarına dikilen sırık
+SÜNGÜ: (Süngük) 1- Kesici ve delici, uzun bıçak 2- Kemik, kemik parçası, kemikle yapılan mızrak 3- Eskiden, mezar başlarına dikilen sırık
 SÜNGÜK: Süngü
 SÜNGÜŞ: Süngü darbesi, süngü hamlesi, süngüleme, savaş
 SÜRÇEK: Yemek, oyun ve eğlence için yapılan, gece toplantısı
@@ -3627,9 +3600,7 @@ TALA: 1- İri cüsseli, heybetli 2- Seçkin, güzide
 TALAKAN: Yağmacı, yağmalayan
 TALAN: Yağma, yağmalama, üşüşme, saldırı
 TALAS: 1- At yarışlarındaki, başlangıç ve bitiş çizgisi 2- Fırtına, kum fırtınası 3- Dalga 4- Tartışma, münakaşa
-TALAY: (Taluy, Tulay, Toluy,Tolu) 1- Okyanus, derya, büyük deniz, büyük göl
-mec. Ululuk, büyüklük, sonsuzluk 2- Gelecek, ikbal 3- Seçkin,güzide
-Şamanist gelenekte Deniz ve göllere bakan Tanrı
+TALAY: (Taluy, Tulay, Toluy,Tolu) 1- Okyanus, derya, büyük deniz, büyük göl mec. Ululuk, büyüklük, sonsuzluk 2- Gelecek, ikbal 3- Seçkin, güzide Şamanist gelenekte Deniz ve göllere bakan Tanrı
 TALAZ: Dalga
 TALI: Güzide, seçkin
 TALIKU: Seçkin, güzide, beğenilen
@@ -3749,8 +3720,7 @@ TAVLI: 1- Hızlı, atik 2- Dağlı
 TAY: 1- Dayak, dayanak, dayanılacak nesne 2- Soy, asalet, soyluluk unvanı 3- Ululuk, büyüklük,çokluk 4- Mevki, yer, bölge 5- Ananın erkek kardeşi, dayı 6- Süt emen at yavrusu
 TAYAK: Baston, değnek, dayanılacak nesne.
 TAYANÇ: 1- Dayanç, dayanak 2- Hami, koruyucu, sırdaş, güvenilen kişi
-TAYANÇI: Danışman, memur.
-Uygurlar döneminde, küçük dereceli memur unvanlarından
+TAYANÇI: Danışman, memur. Uygurlar döneminde, küçük dereceli memur unvanlarından
 TAYANG: Dayak, dayanak, destek, dayanak
 TAYANGU: Danışman, aracı, sıra dışı. Han ve kağanların danışmanlarına verilen bir unvan
 TAYCU: 1- Hami, destekçi, koruyucu 2- Soylu, seçkin 3- Tay sahibi,tay eğiticisi
@@ -3811,7 +3781,7 @@ TETİK: 1- Uyanık, hazır 2- Becerikli, mahir
 TEYENG: Sincap
 TEYMUR: Demir
 TEZ: 1- Hızlı, ivedi, hızlılık 2- Kaçma, ürkme, ürküntü 3- Şiddet, şiddetli
-TEZME. Çabuk kızan, canı ağzında, kızıp çekip giden
+TEZME: Çabuk kızan, canı ağzında, kızıp çekip giden
 TEZÜREK: birl. Tez/Yürek Heyecanlı, ateşli
 TIBIK: Sakin, asude
 TILSIM: Büyü, efsun, sihir
@@ -3838,7 +3808,7 @@ TİLUN: Dolun, tolun, dolu, tam, eksiksiz, kusursuz
 TİMAGUR: Merhametli, vicdanlı
 TİMUÇİN: (Temuçin, temurçin, timurçine) Çengiz Kaan’ın ilk adı. Ancak doğrusu, Timurçin’dir. Demir ucu, sivri demir anlamındadır.
 TİMUR: Demir
-TİMUR KÜRKAN: birl. Timur/Kürkan Türk dünyasının en ünlü simalarından. Yalnızca Türk tarihi değil, dünya tarihinin de başta gelen liderlerinden. Çengiz Kaan’dan sonra, dünyanın ikinci büyük fatihi. Yaşamı hep çetin mücadelelerle geçmiş, koca bir imparatorluğu adeta yoktan var etmiştir. Kürkan (Damat) lakabını, evliliğinin ilk yıllarında, kayın eçesi olan Buhara Emir’ in himayesinde oluşu nedeniyle almış, daha sonraları,İranlılar ona “ Timurleng”, Otmanlılar “ Aksak Timur” lakabını takmışlardır. Bu ulu kişi zamanında,Türk dünyası üçüncü ve son kez olarak, tek devlet çatısı altında toplanmış, “ Birleşik Türk devletleri” ideali, bu ulu kişinin döneminde son kez gerçek olmuştur.
+TİMUR KÜRKAN: birl. Timur/Kürkan Türk dünyasının en ünlü simalarından. Yalnızca Türk tarihi değil, dünya tarihinin de başta gelen liderlerinden. Çengiz Kaan’dan sonra, dünyanın ikinci büyük fatihi. Yaşamı hep çetin mücadelelerle geçmiş, koca bir imparatorluğu adeta yoktan var etmiştir. Kürkan (Damat) lakabını, evliliğinin ilk yıllarında, kayın eçesi olan Buhara Emir’ in himayesinde oluşu nedeniyle almış, daha sonraları, İranlılar ona “Timurleng”, Osmanlılar “ Aksak Timur” lakabını takmışlardır. Bu ulu kişi zamanında,Türk dünyası üçüncü ve son kez olarak, tek devlet çatısı altında toplanmış, “Birleşik Türk devletleri” ideali, bu ulu kişinin döneminde son kez gerçek olmuştur.
 TİN: 1- Can, ruh, öz 2- Soluk, nefes, yel 3- Dinmiş, dingin, sakin, bitik 4- Gök, göksel, Tanrısal
 TİRGEÇ: Diri, canlı, dirilik veren
 TİRİG: Diri, canlı, güçlü
@@ -4122,8 +4092,7 @@ UCUN: Uçta, sınırda, kenarda, uçbeyi
 UÇ: 1- Son, bitim, sınır, kıyı 2- Aşırılık, ekstrem 3- Herhangi bir nesnenin sivri kısmı 4- Ordu kanadı, kol, cenah
 UÇA: 1- Koruma, himaye, arka 2- Uç, sınır, limit 3- Kendini aşmış, yüksek, ulu
 UÇAR: 1- Haber, havadis 2- Kanıt, delil 3- Göğe yakın, Tanrıya yakın, dindar 4- Uçarı, vurdumduymaz
-UÇBEY: birl. Uç/Bey
-Sınır karakollarında görev yapan askeri birlik komutanı
+UÇBEY: birl. Uç/Bey Sınır karakollarında görev yapan askeri birlik komutanı
 UÇGUN: 1- Kam, baksı, kendinden geçmiş, transa girmiş 2- Kıvılcım
 UÇKAN: Uçan, uçucu
 UÇKARA: birl. Uç/Kara ..Sırtı renkli, kanatları kara bir kuş türü
@@ -4246,7 +4215,7 @@ UTAMAN: 1- Utkan, galip, muzaffer 2- Eczacı, doktor 3- Edepli, mahçup, sıkıl
 UTAN: 1- Galip, muzaffer 2- Utanma, ar, mahçubiyet
 UTANGAN: Utangaç, mahçup, kendi kendini sıkan
 UTAR: 1- Yener, utkan, galip 2- İyileştirici 3- Kovalayan, takip eden
-UTAŞ. 1- Yardım, imdat 2- Galibiyet, zafer, utku 3- Takip, kovalamaca
+UTAŞ: 1- Yardım, imdat 2- Galibiyet, zafer, utku 3- Takip, kovalamaca
 UTGUÇU: Galip, muzaffer
 UTKU: Zafer, galibiyet, yenme, üstün gelme, güçlüklerden sonra ulaşılan mutlu son
 UTLU: 1- Galip, muzaffer 2- Sıkılgan, mahçup
@@ -4273,7 +4242,7 @@ UYTUN: Kutlu, mübarek
 UYUM: Uygunluk, denklik, ahenk, armoni
 UZ: Us, öz, erk, yetme, beceri, başarı, açılma, uzama, genişleme, açılım, yayılım
 UZA: 1- uzay, genişlik, uzunluk, yaygınlık 2- Eski, eskiye dayalı, kadim, mazi 3- Geçiş, geçit
-UZAK. 1- Uzman, usta, sanatkar 2- Güçlü, egemen, başarılı
+UZAK: 1- Uzman, usta, sanatkar 2- Güçlü, egemen, başarılı
 UZAM: Uzmanlaşmış, ustalaşmış, usta
 UZAN: Uzman, usta, akıllı, bilgili, sanatçı, pir
 UZAY: Feza, gök boşluğu, uzamış, genişlemiş, geniş
@@ -4825,7 +4794,7 @@ function search() {
 
         // Anahtar kelimenin kendisi veya anlam kısmında birebir eşleşme yap
         if (normalizedKey.includes(searchInput) || normalizeTurkish(meaning).split(' ').some(part => part === searchInput)) {
-            resultContainer.innerHTML += `<div style="padding:0.1em;"><strong>${key}:</strong> ${meaning}</div>`;
+            resultContainer.innerHTML += `<div style="padding:0.1em;"><strong>${key}:</strong> ${meaning.toLowerCase()}</div>`
             displayedResults++;
 
             if (displayedResults >= resultsPerPage) {

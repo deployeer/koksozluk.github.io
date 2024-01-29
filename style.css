@@ -4,46 +4,53 @@ body {
     padding: 0;
 }
 
-header{
+header {
     margin-right: 1em;
 }
+
 .main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
+
 }
 
-.sozluk{
+.sozluk {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     height: min-content;
+
 }
 
-.sozluk-container{
+.sozluk-container {
+    max-width: 55em;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 55em;
-    padding: 1em;
+
+
 }
 
 .sozluk-container p {
     margin-top: 1em;
     text-align: center;
+    max-width: 55em;
 }
-.kelimeler{
+
+.kelimeler {
     padding: 2em;
     font-weight: 500;
 }
 
-#nav-logo{
+#nav-logo {
     width: 8em;
 }
+
 .banner {
     display: flex;
     flex-direction: column;
@@ -52,6 +59,7 @@ header{
     max-width: 50em;
     padding: 1em;
 }
+
 .communication {
     margin-top: 1em;
     margin-bottom: 3em;
@@ -61,20 +69,25 @@ header{
 }
 
 .communication a {
-    margin: 0 10px; /* İkonlar arasındaki boşluk */
+    margin: 0 10px;
+    /* İkonlar arasındaki boşluk */
     text-decoration: none;
 }
 
 .communication svg {
     width: 30px;
     height: 30px;
-    fill: #333; /* İlk renk */
-    transition: transform 0.2s ease, color 0.3s ease; /* Hafif büyüme ve renk değişimi için geçiş efekti */
+    fill: #333;
+    /* İlk renk */
+    transition: transform 0.2s ease, color 0.3s ease;
+    /* Hafif büyüme ve renk değişimi için geçiş efekti */
 }
 
 .communication a:hover svg {
-    transform: scale(1.1); /* Hover durumunda hafiften büyütme */
-    fill: #00CED1; /* Hover durumunda turkuaz renk */
+    transform: scale(1.1);
+    /* Hover durumunda hafiften büyütme */
+    fill: #00CED1;
+    /* Hover durumunda turkuaz renk */
 }
 
 #logo {
@@ -106,7 +119,7 @@ header{
     align-items: center;
 }
 
-.navbar-nav .nav-link  {
+.navbar-nav .nav-link {
     margin: 0 15px;
     text-decoration: none;
     font-weight: normal;
@@ -114,7 +127,8 @@ header{
 }
 
 .navbar-nav .nav-link:hover {
-    color: #00CED1; /* Hover durumunda renk değişimi */
+    color: #00CED1;
+    /* Hover durumunda renk değişimi */
 }
 
 footer {
@@ -130,7 +144,7 @@ footer {
     color: white;
     padding: 0.2em;
 
-  }
+}
 
 footer p {
     margin: 0;
@@ -148,7 +162,7 @@ footer p {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s ease; 
+    transition: background-color 0.3s ease;
 }
 
 #goTopButton:hover {
@@ -158,26 +172,28 @@ footer p {
 
 #goTopButton.hidden {
     opacity: 0;
-    transform: translateY(20px); 
+    transform: translateY(20px);
 }
 
 
 .scrollable {
-  overflow-y: scroll;
+    overflow-y: scroll;
 }
 
 .result-item {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 
 .search-container {
-   margin-top: 2em;
+    margin-top: 2em;
 }
 
 #resultContainer {
-    height: 20em; /* Max yükseklik belirlenmeli */
-    overflow-y: auto; /* Scroll olabilmesi için overflow-y özelliği kullanılır */
+    height: 20em;
+    /* Max yükseklik belirlenmeli */
+    overflow-y: auto;
+    /* Scroll olabilmesi için overflow-y özelliği kullanılır */
     border: 1px solid rgb(233, 233, 233);
     border-radius: 10px;
     max-width: 51em;
@@ -188,7 +204,7 @@ footer p {
     padding: 1em;
 }
 
-#red-beyan{
+#red-beyan {
     background-color: #00CED1;
     padding: 2em;
     color: white;
@@ -198,17 +214,17 @@ footer p {
 .search-container {
     display: flex;
     margin: 10px;
-  }
-  
-  #searchInput {
+}
+
+#searchInput {
     padding: 10px;
     flex-grow: 1;
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
     border: 0.5px solid rgb(224, 224, 224);
-  }
-  
-  .search-button {
+}
+
+.search-button {
     padding: 10px;
     background-color: #00CED1;
     color: white;
@@ -216,10 +232,14 @@ footer p {
     cursor: pointer;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
-    transition: background-color 0.3s ease; 
-  }
-  
-  .search-button:hover {
+    transition: background-color 0.3s ease;
+}
+
+.search-button:hover {
     background-color: #068688;
-  }
-  
+}
+
+
+#sozcukler{
+    max-width: 55em;
+}
