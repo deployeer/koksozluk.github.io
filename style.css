@@ -196,7 +196,7 @@ footer p {
     /* Scroll olabilmesi için overflow-y özelliği kullanılır */
     border: 1px solid rgb(233, 233, 233);
     border-radius: 10px;
-    max-width: 51em;
+    max-width: 55em;
     display: none;
     text-align: start;
     justify-content: start;
