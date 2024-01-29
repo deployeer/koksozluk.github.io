@@ -563,7 +563,7 @@ BASRUK: Baskı, tazyik
 BASSIZ: Başsız, başına buyruk
 BASTI: Bastıran, baskın yapan
 BASTIK: Basdı, Baskıncı
-BASU (Basut) Tokmak
+BASU: (Basut)Tokmak
 BASUÇ: Baskı, tazyik
 BASUT: 1-Yardım, yardımcı 2- Demir tokmak 3- Baskın yapan BAŞ: Oluş, doğuş, ortaya çıkış, uç nokta, doruk, birinci sıra gibi anlamların hepsini içeren bir söz
 BAŞACI: Reis, lider, öncü
