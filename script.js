@@ -4821,7 +4821,7 @@ function search() {
         resultContainer.innerHTML = `<h4 style="text-align: center;">arama sonucu</h4>` + resultContainer.innerHTML;
     } else {
         resultContainer.style.display = 'block';
-        resultContainer.innerHTML = '<p>aradığınız kelime bulunamadı.</p>';
+        resultContainer.innerHTML = '<p>aradığınız sözcük bulunamadı.</p>';
     }
 }
 
