@@ -386,6 +386,7 @@ AYANA: birl. Ay/Ana Altay Türklerinin eski tanrıçalarından
 AYAS: Ay ışığı, mehtap, gece aydınlığı Altay, Tuva, Çuvaş Türklerinde Tanrı sıfatı olarak kullanılan bir ad
 AYATA: birl. Ay/Ata Şamanist gelenekte, göğün altıncı katına bakan Tanrı
 AYAZ: 1- Ay ışığı 2- saf, berrak hava 3- Kuru soğuk
+AYA YERSGÜ: Yarasa,
 AYBAKIM: birl. Ay/Bakım, bakmaktan, bakış
 AYBAN: birl. Ay/Ban mec. Debdebe, şaşa
 AYBANDI: birl. Ay/Bandı (Banmak)
@@ -621,6 +622,7 @@ BAYAR: Ulu, yüce, kudretli, celil…Tanrı sıfatlarından Bulgar hanlığı d�
 BAYAT: Tanrı sıfatlarından ,..1- Devletli, kısmetli 2- Kadim, ezeli
 BAYATLI: Devletli, bahtı açık, muktedir BAYATLUĞ: (Bayatlı)
 BAYAVUT: (Bayagut) Varlıklı, muktedir
+BAYBAYUK: Kelebek.
 BAYÇA: Varlıklı, muktedir
 BAYÇU (Baycu): Varlıklı, devletli
 BAYDAK: 1- Bağımsız, hür 2- Bekar
@@ -2460,6 +2462,7 @@ KOPUZ: Saz, bağlama (Kop_Uz)
 KOR: 1- Öz, maya, asıl 2- Ateş parçası, ateş
 KORBA: Filiz
 KORCU: Korucu
+KORDOY: Kuğu kuşu.
 KORGAN: Korunan yer, kale, kurgan
 KORGAVUŞ: Savunucu, müdafi
 KORIÇI: Korucu, koruyucu, bekçi, yasak bölgeleri bekleyen ve koruyan kişi
@@ -2495,6 +2498,7 @@ KÖÇET: Filiz, sürgün
 KÖÇMEN: Göçmen, göçücü
 KÖDÜRGÜ: Kurban, adak
 KÖGMEN: (Gökmen) 1- Tanrısal, ilahi 2- Sayın, saygıdeğer 3- Gücünü Tanrıdan alan
+KÖGÜRÇEN: Güvercin.
 KÖĞÜZ: 1- Göksel, Tanrısal 2- Göğüs, sine
 KÖK: 1- Gök 2- Aile, soy
 KÖKDAŞ: Emsal, örnek
@@ -2621,6 +2625,7 @@ KUSKUN: Atın kuyruğundan geçirilip, eyere bağlanan kayış
 KUŞ: Kuş
 KUŞÇAK: Kuşçu, kuş eğiticisi
 KUŞÇU: Kuş eğiticisi
+KUŞGAÇ: Serçe.
 KUT: 1- Uğur, talih, baht 2- Tanrısal, mübarek 3- Can, ruh, dirilik, yaşam kaynağı, yaşam gücü 4- kader, yazgı 5- Erk, iktidar 6- Bereket, nasip
 KUTADGU: Kutsanmış, kutlu, değerli, yararlı
 KUTALAN: birl. Kut/Alan mübarek
@@ -3307,7 +3312,8 @@ SAYDAM: Saf, net, berrak, sayılabilen, açık, temiz, bilinen
 SAYDUR: Saygı duruşu, ihtiram duruşu
 SAYGI: 1- Hürmet, önem, değer, edep 2- Sayı, sayım, matematik
 SAYGIN: İtibarlı, hürmet gören, saygı gören, hatırı sayılır
-SAYIL: Seçilmiş, seçkin, sayılan SAYILGAN: Sayılan, saygı gösterilen,muteber
+SAYIL: Seçilmiş, seçkin, sayılan 
+SAYILGAN: Sayılan, saygı gösterilen,muteber
 SAYIM: Saygı, saygı gösteriş
 SAYIN: 1- Seçkin, değerli, muteber, güzide, muhterem 2- Saf, halis, arı 3- Güzel, ender rastlanan
 SAYINDI: Saygı duyulan, itibar gören, muhterem, saygın
@@ -3742,6 +3748,7 @@ TEGİN: Tigin, prens, şehzade, bey oğlu. Göktürkler döneminde, vali unvanı
 TEGİNEK: Değnek, baston
 TEGİR: 1- Değer, kıymet, paha 2- Hücum, taarruz 3- Ulaşım, ulaşma
 TEGİŞ: 1- Değişim, değişme 2- Dövüş, temas, çarpışma, hücum
+TEGLÜKEN: Akbaba. 
 TEGRE: Daire, çevre, civar, etraf
 TEGREK: 1- Değer, kıymet 2- Tekerlek, değirmi, yuvarlak
 TEĞME: Değme, seçkin, farklı
@@ -4284,6 +4291,7 @@ UZUN: (Usun) 1- Uzman, pir, becerikli, iş bitirici 2- yaygın, geniş 3- kalıc
 ÜNALDI: birl. Ün/Aldı Ünlü, meşhur
 ÜNDEV: Namlı, meşhur
 ÜNLÜ: 1- Meşhur, namlı, tanınmış 2- Gür sesli, sesini duyuran
+ÜPLÜG: İbibik kuşu.
 ÜREGEN: Bereketli, münbit
 ÜREGİR: Bolluk, bereket, üretkenlik
 ÜREK: Yürek, kalp
@@ -4329,6 +4337,7 @@ VURUŞ: Savaş, döğüş, kırış
 YABA:(Yapa, yapu) 1- Yapı, oluşum 2- Alet, edevat
 YABAGU: Yabgu, genel vali
 YABALAK: (Yablak) Dayanıklı, metin, mütehammil
+YABAKULAK: Baykuş
 YABAN: 1- Yabancı, yabani, vahşi 2- Yapan, yapıcı
 YABAY: Yapay, yapan, yapıcı, yapılmış
 YABGU: 1- Üst düzey yönetici, genel vali 2- Merkeze bağlı, özerk, bölge yöneticisi Göktürkler döneminde kullanılan unvanlardan
@@ -4339,6 +4348,8 @@ YADA: 1- Yabancı, yabancılık 2- Büyü, sihir, büyü yapmada kullanılan bir
 YADAÇI: 1-Yaya, piyade 2-yada taşını kullanan
 YADEL: birl. Yad/Er Gurbet, yabancı memleket
 YADU: Yadçı, yad edici
+YAGI: Düşman
+YAGILADAÇI: Mücadeleci, Savaşkan
 YAGLA: Talan, yağma
 YAĞADUR: Yağış, yağmur, bolluk, bereket
 YAĞAN: (Yagan, yakan) 1- Ucu ateşli ok 2- Yağmur 3- Gökten inen nur 4- Yakın, yar, canan
@@ -4617,6 +4628,7 @@ YILDIRGAN: Yıldıran, ürküten, korkutan, şaşalı, gösterişli
 YILDIRIM: (Yaldırım) 1- Berk, yüksek voltajlı elektrik 2- Göz kamaştırıcı, ışık, aşırı parlaklık
 YILDIZ: Yaldız, parlak ışık, parlayan, ışıyan
 YILDURU: Berrak, net, temiz, billur
+YILGAR: Hücum, akıni dörtnala hücum.
 YILGI: Yılma, dehşet, ürküntü
 YILGIN: Yılmış, ürkek, bezgin YILIĞ: Yılgın, yılmış, yılık
 YILKI: 1- At, at yavrusu 2- At sürüsü
@@ -4702,6 +4714,7 @@ YUMUŞ: (Yumuç) 1- Söz, öğüt, nasihat 2- Emir, ferman, buyruk 3- Müjde, m�
 Yumuk,yumulmuş, yumruk
 YUMUTGAN: Yapıcı, birleştirici, pozitif kişilik
 YUNAK: Üzerinde çamaşır dövülen ve yıkanan, büyük taş parçası
+YUNKUŞ: Tavus Kuşu.
 YUNMUŞ: Yıkanmış, temiz, titiz, arık
 YUNT: 1- Çadır, oba, ev, yurt, vatan 2- Terbiyesi tamamlanmamış, yarı yabani at 3- Uygarlık,medeniyet
 YURÇI: 1- Becerikli, mahir 2- Yirçi, yer gösteren, rehber
@@ -4785,7 +4798,7 @@ function search() {
         return 0;
     });
 
-    const resultsPerPage = 10;
+    const resultsPerPage = 15;
     let displayedResults = 0;
 
     for (const key of keys) {
