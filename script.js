@@ -4377,7 +4377,7 @@ YAKŞILIK: İyilik, güzellik, uygunluk
 YAKTU: Işık, meşale, aydınlık
 YAKURA: Yakın, yakınlık duygusu
 YAKUŞUK: Yakışıklı, güzel, uygun, uyumlu YAKUT: Yakıt, enerji, yakılan
-YAKUZ: (Yağız)
+YAKUZ: Yağız.
 YALABIR: Parlak, parıldayan
 YALABUK: Parlak, parlayan, ışık saçan
 YALAP: Parlak, ışıltı, ışık saçan Eski dönem, Tanrı ad ve sıfatlarından
@@ -4520,7 +4520,7 @@ YAVNIK: Sevinç, neşe
 YAVRİ: Zayıf, güçten düşmüş
 YAVRU: Zayıf, bakıma muhtaç, ilgi ve bakım bekleyen
 YAVUK: Yakın, yakında duran, yakınlık duyulan, sevgili
-YAVUZ: (Yağız) Kara. Mec. Sert, şiddetli, dehşetli, gözü kara, yaman
+YAVUZ: Yağız Kara. Mec. Sert, şiddetli, dehşetli, gözü kara, yaman
 YAY: 1- Yaz mevsimi 2- Silah, ok atmaya yarayan, gergin ip, gerginlik
 YAYAK: yaya, piyade
 YAYGARU: Bahar, ilkbahar, yaza doğru giden zaman
@@ -4831,3 +4831,20 @@ searchInput.addEventListener('keydown', function (event) {
         search();
     }
 });
+
+
+const rows = rawData.split('\n');
+
+// HTML tablosunu oluşturma
+let tableHTML = '<table class="table table-striped table-hover table-responsive table-bordered">';
+tableHTML += `<thead class='thead thead-dark'><tr><th>sözcük</th><th>anlam</th></tr></thead><tbody>`
+for (const row of rows) {
+    const columns = row.split(':');
+    const word = columns[0];
+    const meaning = columns.slice(1).join(':').toLowerCase(); // Anlamı küçük harfe dönüştür
+    tableHTML += `<tr><td><b>${word}</b></td><td>${meaning}</td></tr>`;
+}
+tableHTML += '</tbody></table>';
+
+// 'sozcukler' id'li div'e tabloyu ekleyelim
+document.getElementById('sozcukler').innerHTML = tableHTML;
